@@ -3,7 +3,7 @@ layout: cv
 title: Joel Fiddes CV
 ---
 # Joel Fiddes
-Geo & Data science
+Geoscientist & consultancy
 
 <div id="webaddress">
 
@@ -37,6 +37,9 @@ __University of Aberdeen__ BSc Environmental science.
 
 
 ## Employment & Projects
+
+`2017-2018`
+__University of Oslo__ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions.
 
 `2014-2017`
 __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners.
@@ -90,15 +93,15 @@ Field training in glacio-hydrological methods.
 * R
 * Geospatial analysis
 * Numerical models
-* Statistics
+* Remote sensing / image processing
+* Statistical analysis
 * Large data processing
-* SQL
+* SQL / Postgres
 * Database management
 * Server admin
-* Cluster computing
-* Git 
-* UNIX
-* Python / Pandas
+* Cluster/HPC computing 
+* Linux
+* Python
 * AWK
 * Bash
 * LaTeX
