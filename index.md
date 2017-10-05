@@ -186,7 +186,7 @@ Prince of Wales Student Scholarship (Tuition fees)
 * Geograhpica Helvetica
 * Environmental Earth Sciences
 * Annals of Glaciology
-* Journal of Geop
+* Journal of Geophysical Research
 
 ## Languages
 
