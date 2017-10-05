@@ -21,13 +21,14 @@ Geoscientist & consultancy
 
 ## Currently
 
-I'm currently working as a data scientist at [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. Here I develop and manage a data infrastructure for large volumes of real-time data from meteorological stations. I aim to combine field measurements, climate datasets and modelling tools to solve real-world problems related to climate change and its impact in mountain and other remote regions. I have experience in academic and applied sectors.
+I am a geoscientist with over 10 years of experience working with international organistaions, multilateral donors and UN bodies as a consultant. My main interest is on high mountain processes related to natural hazards and water resources. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes.   
+<!-- I'm currently working as a data scientist at [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. Here I develop and manage a data infrastructure for large volumes of real-time data from meteorological stations. I aim to combine field measurements, climate datasets and modelling tools to solve real-world problems related to climate change and its impact in mountain and other remote regions. I have experience in academic and applied sectors. -->
 
 
 ## Education
 
 `2009-13`
-__University of Zurich__ PhD Glaciology. Thesis: Subgrid Simulation of Land Surface Variables in Heterogeneous and Remote Environments: Application to Mountain Permafrost. <a href="http://www.library.ethz.ch/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=ebi01_prod010407703&indx=7&recIds=ebi01_prod010407703&recIdxs=6&elementId=6&renderMode=poppedOut&displayMode=full&frbrVersion=2&vid=DADS&&tab=default_tab&dscnt=0&vl(freeText0)=fiddes&dstmp=1487752542274">ETH library</a>.
+__University of Zurich__ PhD Geoscience. Thesis: Subgrid Simulation of Land Surface Variables in Heterogeneous and Remote Environments: Application to Mountain Permafrost. <a href="http://www.library.ethz.ch/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=ebi01_prod010407703&indx=7&recIds=ebi01_prod010407703&recIdxs=6&elementId=6&renderMode=poppedOut&displayMode=full&frbrVersion=2&vid=DADS&&tab=default_tab&dscnt=0&vl(freeText0)=fiddes&dstmp=1487752542274">ETH library</a>.
 
 `2006-07`
 __University of Edinburgh__ MSc Environment & development. Thesis: Impact of climate change on snow-based water resources in Afghanistan.
@@ -41,11 +42,14 @@ __University of Aberdeen__ BSc Environmental science.
 `2017-2018`
 __University of Oslo__ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions.
 
+`2017-2018`
+__World Meteorological Organistaion__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal.
+
 `2014-2017`
 __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners.
 
 `2014`
-__University of Zurich__ _PostDoc_. Managing PERMOS network of ground and rock temperature measurements at Jungfraujoch, Schilthorn, Piz Corvatsch. Including extensive fieldwork and rope-access work. Processing GST, Meteo station and borehole data (www.permos.ch)
+__University of Zurich__ _PostDoc_. Managing PERMOS network of ground and rock temperature measurements at Jungfraujoch, Schilthorn, Piz Corvatsch. Including extensive fieldwork and rope-access work. Processing GST, meteorological station and borehole data (www.permos.ch).
 
 `2014`
 __University of Zurich__ _Scientist_. Developing baseline maps for key land surface variables in the Indian Himalaya using modelling scheme developed in PhD (see below), within a SDC/DEZA funded climate change adaptation programme (www.ihcap.in).
@@ -56,14 +60,14 @@ __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (
 `2009-2013`
 __University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployement of temperature sensors.
 
-`2007-2014`
+`2007-2017`
 __Independent Consultant__ Projects mainly in field of water resources include: Environmental change analysis, capacity building, surveying / mapping, technical training. Clients include: multinational/ national donors, development consultancies, NGOs, e.g. European Commission, Landell Mills Ltd. Agha Khan Foundation, GIZ, Concern Worldwide.}
 
 `2007`
 __Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan.
 
 `1999-2004`
-__Research expeditions__ Gulf apex predator prey project (_University Alaska Fairbanks, Alaska, 2004_). Subsistence hunting study (_University of Aberdeen/ Royal Geographical Society, Peruvian Amazon, 2003_), Coral reef biodiversity monitoring (_Greenforce/ University of Malaysia, Borneo, 2001_), Tian Shan biodiversity study (_BSES/CEH, Kyrgyzstan, 1999_).
+__Formative research expeditions__ Gulf apex predator prey project (_University Alaska Fairbanks, Alaska, 2004_). Subsistence hunting study (_University of Aberdeen/ Royal Geographical Society, Peruvian Amazon, 2003_), Coral reef biodiversity monitoring (_Greenforce/ University of Malaysia, Borneo, 2001_), Tian Shan biodiversity study (_BSES/CEH, Kyrgyzstan, 1999_).
 
 ## Core competences
 `Technical`
@@ -182,6 +186,7 @@ Prince of Wales Student Scholarship (Tuition fees)
 * Geograhpica Helvetica
 * Environmental Earth Sciences
 * Annals of Glaciology
+* Journal of Geop
 
 ## Languages
 
