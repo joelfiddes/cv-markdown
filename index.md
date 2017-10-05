@@ -48,6 +48,9 @@ __World Meteorological Organistaion__ _Consultant_ for the WMO programme Global 
 `2014-2017`
 __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners.
 
+`2016`
+__Himalaya Permafrost ETH SEED__ _Scientist_ Establishment of high altitude permafrost monitoring sites Langtang, Nepal. International permafrost and data tools workshop with participants from Afghanistan, India and Nepal. 
+
 `2014`
 __University of Zurich__ _PostDoc_. Managing PERMOS network of ground and rock temperature measurements at Jungfraujoch, Schilthorn, Piz Corvatsch. Including extensive fieldwork and rope-access work. Processing GST, meteorological station and borehole data (www.permos.ch).
 
@@ -114,7 +117,7 @@ Field training in glacio-hydrological methods.
 
 ### Peer reviewed
 `2016`
-Fiddes J., Linsbauer, A., Randhawa, S.S., Salzmann, N. 2016: Indo-Swiss partnership initiates first local permafrost studies in the Indian Himalaya.
+Allen, SK., Fiddes J., Linsbauer, A., Randhawa, S.S., Salzmann, N. 2016: Indo-Swiss partnership initiates first local permafrost studies in the Indian Himalaya.
 Current Science, 11, 3, 550-553, <a href="https://www.researchgate.net/profile/Simon_Allen3/publication/305999744_Permafrost_studies_in_Kullu_district_Himachal_Pradesh/links/57a9b15708aef300152a09a4.pdf">Researchgate</a>
 
 `2015`
