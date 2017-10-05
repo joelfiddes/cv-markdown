@@ -64,7 +64,7 @@ __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (
 __University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployement of temperature sensors.
 
 `2007-2017`
-__Independent Consultant__ Projects mainly in field of water resources include: Environmental change analysis, capacity building, surveying / mapping, technical training. Clients include: multinational/ national donors, development consultancies, NGOs, e.g. European Commission, Landell Mills Ltd. Agha Khan Foundation, GIZ, Concern Worldwide.}
+__Independent Consultant__ Projects mainly in field of water resources include: Environmental change analysis, capacity building, surveying / mapping, technical training. Clients include: multinational/ national donors, development consultancies, NGOs, e.g. European Commission, Landell Mills Ltd. Agha Khan Foundation, GIZ, Concern Worldwide.
 
 `2007`
 __Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan.
