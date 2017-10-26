@@ -14,11 +14,11 @@ Style:
 ```
 
 ### Publish to CV website
-Example script to generate HTML and push to local gh-pages directory. This builds the html from markdown and copies to :
+Example script to generate HTML and push to local gh-pages directory. Plus does gh commits. This builds the html from markdown and copies to :
 
 ~/src/jekyll/joelfiddes.github.io/cv
 
-plus doe gh commits
+
 
 ```
 cd ~/src/jekyll/cv-markdown
