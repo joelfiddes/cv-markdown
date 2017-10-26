@@ -58,13 +58,13 @@ __University of Zurich__ _PostDoc_. Managing PERMOS network of ground and rock t
 __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
 
 `2013`
-__GIZ/Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Supporting follow up project.
+__GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Supporting follow up project.
 
 `2012`
 __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin.
 
 `2011`
-__GIZ/Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Component avalanche hazard zones.
+__GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Component avalanche hazard zones.
 
 `2011`
 __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin.
@@ -79,7 +79,7 @@ __Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis o
 __University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployment of temperature sensors.
 
 `2009`
-__Agha Khan Foundation__ _Consultant_. Training in GIS systems and geospatial survey to AKF engineers. 
+__Agha Khan Foundation__ _Consultant_. Training in GIS systems and geospatial survey for AKF project engineers in Puli Khumri NE Afghanistan. 
 
 <!--
 `2007-2017`
@@ -87,16 +87,16 @@ __Independent Consultant__ Projects mainly in field of water resources include: 
 -->
 
 `2008`
-__Welt Hunger Hilfe__ _Consultant_. Project "PEEP"
+__Welt Hunger Hilfe__ _Consultant_. Upper catchment protection project "PEEP": training in geospatial survey and GIS systems for PEEP project staff.
 
 `2008`
-__Concern Worldwide/ Welt Hunger Hilfe__ _Consultant_. Projcets "SWIM/SMILE": Established GIS systems and conducted training in geospatial surveys for social water management and upper catchment projects.
+__Concern Worldwide/ Welt Hunger Hilfe__ _Consultant_. Social water management and upper catchment protection projects "SWIM/SMILE": Established GIS systems and conducted training in geospatial surveys for projevt staff. Surveying of irrigation channels and infrastructure.
 
 `2008`
 __Concern Worldwide__ _Consultant_. Market analysis for natural resorce based products in Takhar NE Afghanistan.
 
 `2007`
-__Landell Mills Ltd.__ _Consultant_. Environmental screening report for irrigation rehabilitation component of Kunduz River Basin Programme. Additionally provided concept note of snow and ice monitoring.
+__Landell Mills Ltd.__ _Consultant_. Environmental screening report for irrigation rehabilitation component of Kunduz River Basin Programme. Additionally provided concept note on methods in snow and ice monitoring.
 
 `2007`
 __Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan. Collaboration with the Landell Mills led European Commision Kunduz River Basin Programme.
