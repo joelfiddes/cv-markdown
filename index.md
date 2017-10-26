@@ -74,7 +74,7 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 
 ## Core competences
 `Technical`
-Land-surface modelling and model development with focus on mountain environments
+Land-surface modelling and model development with focus on mountain environments.
 
 Environmental analysis using climate data and other large datasets.
 
@@ -97,9 +97,8 @@ Field training in glacio-hydrological methods.
 
 ## Technical skills
 
-* R
+* Hydrological/ geo modelling
 * Geospatial analysis
-* Numerical models
 * Remote sensing / image processing
 * Statistical analysis
 * Large data processing
@@ -108,6 +107,7 @@ Field training in glacio-hydrological methods.
 * Server admin
 * Cluster/HPC computing 
 * Linux
+* R
 * Python
 * AWK
 * Bash
@@ -155,7 +155,6 @@ Fiddes, J. (2010). Climbs and expeditions: Asia, Afghanistan, Hindu Kush, Koh-i-
 
 `2007`
 Fiddes, J. (2007). Afghanistan: Implications Of Climate Change For Water Resources In The Kunduz River Basin in Climate Challenges: Bridging the Knowledge Gap.Mercy Corps Climate change unit. <a href="https://www.mercycorps.org/files/file1198714955.pdf">online version</a>
-
 
 
 ### Technical contributions

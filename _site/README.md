@@ -12,11 +12,22 @@ Style:
 ```
 ~/src/jekyll/cv-markdown/media
 ```
+
+### Commit edits
+```
+git add -A
+git commit -m "CV edits"
+git push
+```
+
 ### Publish to CV website
-Example script to generate HTML and push to local gh-pages directory. This builds the html from markdown and copies to :~/src/jekyll/joelfiddes.github.io/cv
+Example script to generate HTML and push to local gh-pages directory. This builds the html from markdown and copies to :
+
+~/src/jekyll/joelfiddes.github.io/cv
+
 ```
 cd ~/src/jekyll/cv-markdown
-publish.sh
+./publish.sh
 ```
 
 ### Push website live
@@ -32,7 +43,7 @@ https://joelfiddes.github.io/cv/
 
 # Original instructions
 
-### How to run 
+### How to run
 
 A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa](https://github.com/elipapa/markdown-cv) (see their [blog post](http://www.eliseopapa.org/workflow/2012/09/20/why-i-switched-to-markdown-for-my-cv/)).
 
