@@ -19,7 +19,6 @@ Example script to generate HTML and push to local gh-pages directory. Plus does 
 ~/src/jekyll/joelfiddes.github.io/cv
 
 
-
 ```
 cd ~/src/jekyll/cv-markdown
 ./publish.sh
