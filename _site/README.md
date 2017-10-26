@@ -13,17 +13,12 @@ Style:
 ~/src/jekyll/cv-markdown/media
 ```
 
-### Commit edits
-```
-git add -A
-git commit -m "CV edits"
-git push
-```
-
 ### Publish to CV website
 Example script to generate HTML and push to local gh-pages directory. This builds the html from markdown and copies to :
 
 ~/src/jekyll/joelfiddes.github.io/cv
+
+plus doe gh commits
 
 ```
 cd ~/src/jekyll/cv-markdown
@@ -39,6 +34,16 @@ cd ~/src/jekyll/joelfiddes.github.io
 ### Check it out
 ```
 https://joelfiddes.github.io/cv/
+```
+
+### Altogether now
+Run all commands simultaneously:
+
+```
+cd ~/src/jekyll/cv-markdown
+./publish.sh
+cd ~/src/jekyll/joelfiddes.github.io
+./gpush.sh # quick commit of website
 ```
 
 # Original instructions
