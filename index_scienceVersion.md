@@ -21,7 +21,7 @@ Geoscientist & consultancy
 
 ## Currently
 
-I am a geoscientist with over 10 years of experience working with international organistations, multilateral donors and UN bodies as a consultant. My main interest is on high mountain processes related to natural hazards and water resources and impacts upon society. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting techniques.   
+I am a geoscientist with over 10 years of experience working with international organistations, multilateral donors and UN bodies as a consultant. My main interest is on high mountain processes related to natural hazards and water resources. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes.   
 <!-- I'm currently working as a data scientist at [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. Here I develop and manage a data infrastructure for large volumes of real-time data from meteorological stations. I aim to combine field measurements, climate datasets and modelling tools to solve real-world problems related to climate change and its impact in mountain and other remote regions. I have experience in academic and applied sectors. -->
 
 
@@ -34,28 +34,28 @@ __University of Zurich__ PhD Geoscience. Thesis: Subgrid Simulation of Land Surf
 __University of Edinburgh__ MSc Environment & development. Thesis: Impact of climate change on snow-based water resources in Afghanistan.
 
 `2001-04`
-__University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of subsistence hunting on Neotropical mammal species in North-East Peruvian Amazon. 
+__University of Aberdeen__ BSc Environmental science.
 
 
 ## Employment & Projects
 
 `2017-2018`
-__University of Oslo__ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions. Expected results are improved simulation/ forecasting of runoff in remote mountainous areas with relevance to improved river basin management.
+__University of Oslo__ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions.
 
 `2017-2018`
-__World Meteorological Organistaion__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal. These stations are helping us understand the changing cryosphere in remote regions with direct consequences for downstream communities in terms of water resources and natural hazards.
+__World Meteorological Organistaion__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal.
 
 `2014-2017`
-__WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institue in Switzerland for both hydology and natural hazard assesments.
+__WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners.
 
 `2016`
-__Himalaya Permafrost ETH SEED__ _Scientist_ Establishment of high altitude permafrost monitoring sites Langtang, Nepal. Training young Nepalese scientists. International permafrost and data tools workshop with participants from Afghanistan, India and Nepal. 
+__Himalaya Permafrost ETH SEED__ _Scientist_ Establishment of high altitude permafrost monitoring sites Langtang, Nepal. International permafrost and data tools workshop with participants from Afghanistan, India and Nepal. 
 
 `2014`
 __University of Zurich__ _PostDoc_. Managing PERMOS network of ground and rock temperature measurements at Jungfraujoch, Schilthorn, Piz Corvatsch. Including extensive fieldwork and rope-access work. Processing GST, meteorological station and borehole data (www.permos.ch).
 
 `2014`
-__University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
+__University of Zurich__ _Scientist_. Developing baseline maps for key land surface variables in the Indian Himalaya using modelling scheme developed in PhD (see below), within a SDC/DEZA funded climate change adaptation programme (www.ihcap.in).
 
 `2010-2011`
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
@@ -67,14 +67,14 @@ __University of Zurich__ _Scientific researcher/ PhD Candidate_. National scienc
 __Independent Consultant__ Projects mainly in field of water resources include: Environmental change analysis, capacity building, surveying / mapping, technical training. Clients include: multinational/ national donors, development consultancies, NGOs, e.g. European Commission, Landell Mills Ltd. Agha Khan Foundation, GIZ, Concern Worldwide.
 
 `2007`
-__Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan. Collaboration with the Landell Mills led European Commision Kunduz River Basin Programme.
+__Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan.
 
 `1999-2004`
 __Formative research expeditions__ Gulf apex predator prey project (_University Alaska Fairbanks, Alaska, 2004_). Subsistence hunting study (_University of Aberdeen/ Royal Geographical Society, Peruvian Amazon, 2003_), Coral reef biodiversity monitoring (_Greenforce/ University of Malaysia, Borneo, 2001_), Tian Shan biodiversity study (_BSES/CEH, Kyrgyzstan, 1999_).
 
 ## Core competences
 `Technical`
-Land-surface modelling and model development with focus on mountain environments
+Land-surface modelling and model development with focus on mountain environments.
 
 Environmental analysis using climate data and other large datasets.
 

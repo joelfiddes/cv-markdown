@@ -1,6 +1,36 @@
 # md-cv
 
+## How to use
 My markdown CV, which currently looks something like [this](https://joelfiddes.github.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) from Ben Moore for details.
+
+### Update content
+Content:
+```
+~/src/jekyll/cv-markdown/index.md
+```
+Style:
+```
+~/src/jekyll/cv-markdown/media
+```
+### Publish to CV website
+Example script to generate HTML and push to local gh-pages directory. This builds the html from markdown and copies to :~/src/jekyll/joelfiddes.github.io/cv
+```
+cd ~/src/jekyll/cv-markdown
+publish.sh
+```
+
+### Push website live
+```
+cd ~/src/jekyll/joelfiddes.github.io
+./gpush.sh # quick commit of website
+```
+
+### Check it out
+```
+https://joelfiddes.github.io/cv/
+```
+
+# Original instructions
 
 ### How to run 
 
