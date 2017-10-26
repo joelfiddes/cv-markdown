@@ -43,7 +43,7 @@ __University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of 
 __University of Oslo__ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions. Expected results are improved simulation/ forecasting of runoff in remote mountainous areas with relevance to improved river basin management.
 
 `2017-2018`
-__World Meteorological Organistaion__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal. These stations are helping us understand the changing cryosphere in remote regions with direct consequences for downstream communities in terms of water resources and natural hazards.
+__World Meteorological Organistation__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal. These stations are helping us understand the changing cryosphere in remote regions with direct consequences for downstream communities in terms of water resources and natural hazards.
 
 `2014-2017`
 __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institue in Switzerland for both hydology and natural hazard assesments.
