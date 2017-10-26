@@ -57,32 +57,34 @@ __University of Zurich__ _PostDoc_. Managing PERMOS network of ground and rock t
 `2014`
 __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
 
+`2013`
+__Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Supporting follow up project.
+
+`2012`
+__AREU__ _Consultant_. Remote sensing analysis of irrigated zones in Sar-i-Pul River Basin.
+
+`2011`
+__Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Component avalanche hazard zones.
+
+`2011`
+__AREU__ _Consultant_. Remote sensing analysis of irrigated zones in Panj Amu River Basin.\
+
 `2010-2011`
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
+
+`2009`
+__Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management.
 
 `2009-2013`
 __University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployment of temperature sensors.
 
+`2009`
+__Agha Khan Foundation__ _Consultant_. Training in GIS systems and geospatial survey to AKF engineers. 
+
+<!--
 `2007-2017`
 __Independent Consultant__ Projects mainly in field of water resources include: Environmental change analysis, capacity building, surveying / mapping, technical training. Clients include: multinational/ national donors, development consultancies, NGOs, e.g. European Commission, Landell Mills Ltd. Agha Khan Foundation, GIZ, Concern Worldwide.
-
-`2013`
-__Hydroc__ _Consultant_. Disaster risk management project for GIZ. Supporting follow up project.
-
-`2012`
-__AREU__ _Consultant_. Remote sensing analysis of irrigated zone in Sar-i-Pul River Basin.
-
-`2011`
-__Hydroc__ _Consultant_. Disaster risk management project for GIZ. Component avalanche hazard zones.
-
-`2011`
-__AREU__ _Consultant_. Remote sensing analysis of irrigated zone in Panj Amu River Basin.
-
-`2009`
-__Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zone in Baghlan.
-
-`2009`
-__Agha Khan Foundation__ _Consultant_. Training in GIS systems and geospatial survey to AKF engineers.
+-->
 
 `2008`
 __Welt Hunger Hilfe__ _Consultant_. Project "PEEP"
@@ -95,8 +97,6 @@ __Concern Worldwide__ _Consultant_. Market analysis for natural resorce based pr
 
 `2007`
 __Landell Mills Ltd.__ _Consultant_. Environmental screening report for irrigation rehabilitation component of Kunduz River Basin Programme. Additionally provided concept note of snow and ice monitoring.
-
-
 
 `2007`
 __Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan. Collaboration with the Landell Mills led European Commision Kunduz River Basin Programme.
@@ -228,6 +228,18 @@ Prince of Wales Student Scholarship (Tuition fees)
 * German (_Intermediate_)
 * Romansh (_Basic_)
 * Dari (_Basic_)
+
+## Country experience
+* Afghanistan
+* Borneo
+* Kyrgyzstan
+* India
+* Nepal
+* Norway
+* Peru
+* Switzerland
+
+
 
 
 ## References
