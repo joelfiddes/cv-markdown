@@ -58,16 +58,16 @@ __University of Zurich__ _PostDoc_. Managing PERMOS network of ground and rock t
 __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
 
 `2013`
-__Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Supporting follow up project.
+__GIZ/Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Supporting follow up project.
 
 `2012`
-__AREU__ _Consultant_. Remote sensing analysis of irrigated zones in Sar-i-Pul River Basin.
+__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin.
 
 `2011`
-__Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Component avalanche hazard zones.
+__GIZ/Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Component avalanche hazard zones.
 
 `2011`
-__AREU__ _Consultant_. Remote sensing analysis of irrigated zones in Panj Amu River Basin.\
+__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin.
 
 `2010-2011`
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
@@ -200,8 +200,9 @@ Thomas, V., Mumtaz, W., & Azizi, M. A. (2012). Mind the Gap?: Local Practices an
 ## Grants & Awards
 
 `2015`
-TopoSAT: High resolution surface modelling of the Himalayan cryosphere with satellite data assimilation. Swiss National Scienmce Foundation Post-doc mobility (_120K CHF_)
+TopoSAT: High resolution surface modelling of the Himalayan cryosphere with satellite data assimilation. Swiss National Science Foundation Post-doc mobility (_120K CHF_)
 
+`2015`
 Data and monitoring tools for improved water resource management in Afghanistan. SEED Grant (_10K CHF_)
 
 `2001`
