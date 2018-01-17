@@ -21,7 +21,7 @@ Geoscientist & consultancy
 
 ## Currently
 
-I am a geoscientist with over 10 years of experience working with international organistations, multilateral donors and UN bodies as a consultant. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting techniques.   
+I am a geoscientist with over 10 years of experience working across academic institutions, international organistations, multilateral donors and UN bodies. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting techniques.   
 <!-- I'm currently working as a data scientist at [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. Here I develop and manage a data infrastructure for large volumes of real-time data from meteorological stations. I aim to combine field measurements, climate datasets and modelling tools to solve real-world problems related to climate change and its impact in mountain and other remote regions. I have experience in academic and applied sectors. -->
 
 
