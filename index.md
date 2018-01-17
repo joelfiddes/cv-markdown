@@ -40,7 +40,7 @@ __University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of 
 ## Employment & Projects
 
 `2017-2018`
-__University of Oslo__ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions. Expected results are improved simulation/ forecasting of runoff in remote mountainous areas with relevance to improved river basin management.
+__University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions. Expected results are improved simulation/ forecasting of runoff in remote mountainous areas with relevance to improved river basin management.
 
 `2017-2018`
 __World Meteorological Organistation__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal. These stations are helping us understand the changing cryosphere in remote regions with direct consequences for downstream communities in terms of water resources and natural hazards.
@@ -52,7 +52,7 @@ __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developi
 __Himalaya Permafrost ETH SEED__ _Scientist_ Establishment of high altitude permafrost monitoring sites Langtang, Nepal. Training young Nepalese scientists. International permafrost and data tools workshop with participants from Afghanistan, India and Nepal. 
 
 `2014`
-__University of Zurich__ _PostDoc_. Managing PERMOS network of ground and rock temperature measurements at Jungfraujoch, Schilthorn, Piz Corvatsch. Including extensive fieldwork and rope-access work. Processing GST, meteorological station and borehole data (www.permos.ch).
+__University of Zurich__ _Scientist_. Managing PERMOS network of ground and rock temperature measurements at Jungfraujoch, Schilthorn, Piz Corvatsch. Including extensive fieldwork and rope-access work. Processing GST, meteorological station and borehole data (www.permos.ch).
 
 `2014`
 __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
