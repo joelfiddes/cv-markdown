@@ -40,10 +40,10 @@ __University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of 
 ## Employment & Projects
 
 `2017-2018`
-__University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions. Expected results are improved simulation/ forecasting of runoff in remote mountainous areas with relevance to improved river basin management.
+__University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions.
 
 `2017-2018`
-__World Meteorological Organistation__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal. These stations are helping us understand the changing cryosphere in remote regions with direct consequences for downstream communities in terms of water resources and natural hazards.
+__World Meteorological Organistation__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal.
 
 `2014-2017`
 __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institue in Switzerland for both hydology and natural hazard assesments.
@@ -90,7 +90,7 @@ __Independent Consultant__ Projects mainly in field of water resources include: 
 __Welt Hunger Hilfe__ _Consultant_. Upper catchment protection project "PEEP": training in geospatial survey and GIS systems for PEEP project staff.
 
 `2008`
-__Concern Worldwide/ Welt Hunger Hilfe__ _Consultant_. Social water management and upper catchment protection projects "SWIM/SMILE": Established GIS systems and conducted training in geospatial surveys for projevt staff. Surveying of irrigation channels and infrastructure.
+__Concern Worldwide/ Welt Hunger Hilfe__ _Consultant_. Social water management and upper catchment protection projects "SWIM/SMILE": Established GIS systems and conducted training in geospatial surveys for project staff. Surveying of irrigation channels and infrastructure.
 
 `2008`
 __Concern Worldwide__ _Consultant_. Market analysis for natural resorce based products in Takhar NE Afghanistan.
