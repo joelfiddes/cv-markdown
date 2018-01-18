@@ -60,20 +60,20 @@ __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded 
 `2013`
 __GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Supporting follow up project.
 
-`2012`
-__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin.
+<!-- `2012`-->
+<!-- __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin. -->
 
 `2011`
 __GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Component avalanche hazard zones.
 
-`2011`
-__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin.
+<!-- `2011` -->
+<!-- __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin. -->
 
 `2010-2011`
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
 
-`2009`
-__Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management.
+<!--  `2009` -->
+<!-- __Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management. -->
 
 `2009-2013`
 __University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployment of temperature sensors.
