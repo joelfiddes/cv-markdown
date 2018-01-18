@@ -92,8 +92,8 @@ __Welt Hunger Hilfe__ _Consultant_. Upper catchment protection project "PEEP": t
 `2008`
 __Concern Worldwide/ Welt Hunger Hilfe__ _Consultant_. Social water management and upper catchment protection projects "SWIM/SMILE": Established GIS systems and conducted training in geospatial surveys for project staff. Surveying of irrigation channels and infrastructure.
 
-`2008`
-__Concern Worldwide__ _Consultant_. Market analysis for natural resorce based products in Takhar NE Afghanistan.
+<!-- `2008` -->
+<!-- __Concern Worldwide__ _Consultant_. Market analysis for natural resorce based products in Takhar NE Afghanistan. -->
 
 `2007`
 __Landell Mills Ltd.__ _Consultant_. Environmental screening report for irrigation rehabilitation component of Kunduz River Basin Programme. Additionally provided concept note on methods in snow and ice monitoring.
