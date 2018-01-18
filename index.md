@@ -129,8 +129,8 @@ Field training in glacio-hydrological methods.
 
 ## Technical skills
 
-* Hydrological/ geo modelling
 * Geospatial analysis
+* Numerical models
 * Remote sensing / image processing
 * Statistical analysis
 * Large data processing
@@ -144,7 +144,6 @@ Field training in glacio-hydrological methods.
 * AWK
 * Bash
 * LaTeX
-
 ## Publications
 
 ### Peer reviewed
