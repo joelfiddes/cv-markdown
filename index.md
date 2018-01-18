@@ -144,6 +144,7 @@ Field training in glacio-hydrological methods.
 * AWK
 * Bash
 * LaTeX
+
 ## Publications
 
 ### Peer reviewed
