@@ -3,7 +3,7 @@ layout: cv
 title: Joel Fiddes CV
 ---
 # Joel Fiddes
-Geoscientist
+GEOSCIENTIST
 
 <div id="webaddress">
 
