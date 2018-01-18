@@ -57,9 +57,6 @@ __University of Zurich__ _Scientist_. Managing PERMOS network of ground and rock
 `2014`
 __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
 
-`2013`
-__GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Supporting follow up project.
-
 <!-- `2012`-->
 <!-- __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin. -->
 
