@@ -239,6 +239,7 @@ Prince of Wales Student Scholarship (Tuition fees)
 * Norway
 * Peru
 * Switzerland
+* Tajikistan
 
 
 
