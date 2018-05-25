@@ -40,13 +40,13 @@ __University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of 
 ## Employment & Projects
 
 `2018-2019`
-__Landell Mills Ltd__ _Consultant_ (Zarafshan River Basin Programme) [https://joelfiddes.github.io/tajsnow/], EU TA to Government Tajikistan. Develop pilot routines for monitoring and modelling snow based water resources  [https://joelfiddes.github.io/tajsnow/].
+__Landell Mills Ltd__ _Consultant_ <a href="https://joelfiddes.github.io/tajsnow/">Zarafshan River Basin Programme</a>, EU TA project with Ministry of Energy and Water Resources, Tajikistan. Develop pilot routines for monitoring and modelling snow based water resources.
 
 `2017-2018`
 __University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions.
 
 `2017-2018`
-__World Meteorological Organistation__ _Consultant_ for the (WMO programme Global Cryosphere Watch)[https://joelfiddes.github.io/wmo_gcw/]. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
+__World Meteorological Organistation__ _Consultant_ for the <a href="https://joelfiddes.github.io/wmo_gcw/">WMO programme Global Cryosphere Watch</a>. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
 
 `2014-2017`
 __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institue in Switzerland for both hydrology and natural hazard assesments.
