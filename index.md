@@ -39,14 +39,17 @@ __University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of 
 
 ## Employment & Projects
 
+`2018-2019`
+__Landell Mills Ltd__ _Consultant_ (Zarafshan River Basin Programme) [https://joelfiddes.github.io/tajsnow/], EU TA to Government Tajikistan. Develop pilot routines for monitoring and modelling snow based water resources  [https://joelfiddes.github.io/tajsnow/].
+
 `2017-2018`
 __University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions.
 
 `2017-2018`
-__World Meteorological Organistation__ _Consultant_ for the WMO programme Global Cryosphere Watch. Developing a global solution for interoperability of Cryonet monitoring stations and GCW dataportal.
+__World Meteorological Organistation__ _Consultant_ for the (WMO programme Global Cryosphere Watch)[https://joelfiddes.github.io/wmo_gcw/]. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
 
 `2014-2017`
-__WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institue in Switzerland for both hydology and natural hazard assesments.
+__WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institue in Switzerland for both hydrology and natural hazard assesments.
 
 `2016`
 __Himalaya Permafrost ETH SEED__ _Scientist_ Establishment of high altitude permafrost monitoring sites Langtang, Nepal. Training young Nepalese scientists. International permafrost and data tools workshop with participants from Afghanistan, India and Nepal. 
@@ -61,7 +64,7 @@ __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded 
 <!-- __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin. -->
 
 `2011`
-__GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan for GIZ. Component avalanche hazard zones.
+__GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan, Afghanistan for GIZ. Component avalanche hazard risk zones.
 
 <!-- `2011` -->
 <!-- __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin. -->
