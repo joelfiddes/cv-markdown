@@ -39,6 +39,9 @@ __University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of 
 
 ## Employment & Projects
 
+`2018-`
+__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments".
+
 `2018-2019`
 __Landell Mills Ltd__ _Consultant_ <a href="https://joelfiddes.github.io/tajsnow/">Zarafshan River Basin Programme</a>, EU TA project with Ministry of Energy and Water Resources, Tajikistan. Develop pilot routines for monitoring and modelling snow based water resources.
 
