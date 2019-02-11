@@ -7,7 +7,7 @@ Geoscientist
 
 <div id="webaddress">
 
-<i class="fa fa-envelope"></i> <a href="jfiddes@gmail.com">jfiddes@gmail.com</a>
+<i class="fa fa-envelope"></i> <a href="joelfiddes@gmail.com">joelfiddes@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="https://joelfiddes.github.io">Website</a>
 |
@@ -22,7 +22,7 @@ Geoscientist
 ## Currently
 
 I am a geoscientist with over 10 years of interdisciplinary experience working across academic institutions, international organistations, multilateral donors and UN bodies. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods.   
-<!-- I'm currently working as a data scientist at [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. Here I develop and manage a data infrastructure for large volumes of real-time data from meteorological stations. I aim to combine field measurements, climate datasets and modelling tools to solve real-world problems related to climate change and its impact in mountain and other remote regions. I have experience in academic and applied sectors. -->
+<!-- I'm currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. -->
 
 
 ## Education
