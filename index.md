@@ -154,7 +154,8 @@ Field training in glacio-hydrological methods.
 `2019`
 Fiddes, Joel, Kristoffer Aalstad, and Sebastian Westermann. 2019. “Hyper-Resolution Ensemble-Based Snow Reanalysis in Mountain Regions Using Clustering.” Hydrology and Earth System Sciences Discussions, May, 1–32. _In press._
 
-Bender, Esther ,  Joel Fiddes and  Michael Lehning (2019) Changes in climatology, snow cover and ground temperatures at high alpine locations, Front. Earth Sci. _In review._
+`2019`
+Bender, Esther ,  Joel Fiddes and  Michael Lehning. 2019. Changes in climatology, snow cover and ground temperatures at high alpine locations, Front. Earth Sci. _In review._
 
 `2016`
 Allen, SK., Fiddes J., Linsbauer, A., Randhawa, S.S., Salzmann, N. 2016: Indo-Swiss partnership initiates first local permafrost studies in the Indian Himalaya.
@@ -212,7 +213,7 @@ Thomas, V., Mumtaz, W., & Azizi, M. A. (2012). Mind the Gap?: Local Practices an
 
 ## Grants & Awards
 
-`2015`
+`2017`
 TopoSAT: High resolution surface modelling of the Himalayan cryosphere with satellite data assimilation. Swiss National Science Foundation Post-doc mobility (_120K CHF_)
 
 `2015`
