@@ -151,6 +151,11 @@ Field training in glacio-hydrological methods.
 ## Publications
 
 ### Peer reviewed
+`2019`
+Fiddes, Joel, Kristoffer Aalstad, and Sebastian Westermann. 2019. “Hyper-Resolution Ensemble-Based Snow Reanalysis in Mountain Regions Using Clustering.” Hydrology and Earth System Sciences Discussions, May, 1–32. _In press._
+
+Bender, Esther ,  Joel Fiddes and  Michael Lehning (2019) Changes in climatology, snow cover and ground temperatures at high alpine locations, Front. Earth Sci. _In review._
+
 `2016`
 Allen, SK., Fiddes J., Linsbauer, A., Randhawa, S.S., Salzmann, N. 2016: Indo-Swiss partnership initiates first local permafrost studies in the Indian Himalaya.
 Current Science, 11, 3, 550-553, <a href="https://www.researchgate.net/profile/Simon_Allen3/publication/305999744_Permafrost_studies_in_Kullu_district_Himachal_Pradesh/links/57a9b15708aef300152a09a4.pdf">Researchgate</a>
@@ -177,6 +182,11 @@ Matthias Keller, Guido Hungerbuehler, Oliver Knecht, Suhel Sheikh, Jan Beutel, S
 
 
 ### Non-peer reviewed
+`2019`
+Muccione, V, and Fiddes, J. “State of the Knowledge on Water Resources and Natural Hazards under Climate Change in Central Asia and South Caucasus.” Managing Disaster Risks and Water under Climate Change. 2019. https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:21688.
+
+The Status and Role of the alpine Cryosphere in Central Asia _(Book Chapter)_. Martin Hoelzle, Martina Barandun, Tobias Bolch, Joel Fiddes, Abror Gafurov, Veruska Muccione, Tomas Saks and Maria Shaghedanova _in_ The Aral Sea Basin: Water for Sustainable Development in Central Asia eds.Stefanos Xenarios, Dietrich Schmidt-Vogt, Manzoor Qadir, Barbara Janusz-Pawletta, Iskandar Abdullaev, 2019, Routledge ISBN 9781138348882.
+
 `2014`
 Fiddes, J. T. (2014). Subgrid Simulation of Land Surface Variables in Heterogeneous and Remote Environments: Application to Mountain Permafrost (Doctoral dissertation). <a href="http://www.library.ethz.ch/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=ebi01_prod010407703&indx=7&recIds=ebi01_prod010407703&recIdxs=6&elementId=6&renderMode=poppedOut&displayMode=full&frbrVersion=2&vid=DADS&&tab=default_tab&dscnt=0&vl(freeText0)=fiddes&dstmp=1487752542274">ETH library</a>.
 
