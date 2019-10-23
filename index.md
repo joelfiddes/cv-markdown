@@ -186,6 +186,7 @@ Matthias Keller, Guido Hungerbuehler, Oliver Knecht, Suhel Sheikh, Jan Beutel, S
 `2019`
 Muccione, V, and Fiddes, J. “State of the Knowledge on Water Resources and Natural Hazards under Climate Change in Central Asia and South Caucasus.” Managing Disaster Risks and Water under Climate Change. 2019. https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:21688.
 
+`2019`
 The Status and Role of the alpine Cryosphere in Central Asia _(Book Chapter)_. Martin Hoelzle, Martina Barandun, Tobias Bolch, Joel Fiddes, Abror Gafurov, Veruska Muccione, Tomas Saks and Maria Shaghedanova _in_ The Aral Sea Basin: Water for Sustainable Development in Central Asia eds.Stefanos Xenarios, Dietrich Schmidt-Vogt, Manzoor Qadir, Barbara Janusz-Pawletta, Iskandar Abdullaev, 2019, Routledge ISBN 9781138348882.
 
 `2014`
