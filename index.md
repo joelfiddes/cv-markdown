@@ -214,6 +214,9 @@ Thomas, V., Mumtaz, W., & Azizi, M. A. (2012). Mind the Gap?: Local Practices an
 
 ## Grants & Awards
 
+`2019`
+Expedition to install permafrost monitoring network in Northern Alai Range Tajikistan, Mount Everest Foundation (_4K CHF_)
+
 `2017`
 TopoSAT: High resolution surface modelling of the Himalayan cryosphere with satellite data assimilation. Swiss National Science Foundation Post-doc mobility (_120K CHF_)
 
