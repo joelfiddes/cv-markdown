@@ -152,7 +152,7 @@ Field training in glacio-hydrological methods.
 
 ### Peer reviewed
 `2019`
-Fiddes, J., Aalstad, K., and Westermann, S.: Hyper-resolution ensemble-based snow reanalysis in mountain regions using clustering, Hydrol. Earth Syst. Sci., 23, 4717–4736, 2019._  <a href="ttps://doi.org/10.5194/hess-23-4717-2019">https://doi.org/10.5194/hess-23-4717-2019</a>
+Fiddes, J., Aalstad, K., and Westermann, S.: Hyper-resolution ensemble-based snow reanalysis in mountain regions using clustering, Hydrol. Earth Syst. Sci., 23, 4717–4736, 2019._  <a href="https://doi.org/10.5194/hess-23-4717-2019">https://doi.org/10.5194/hess-23-4717-2019</a>
 
 Bender, Esther ,  Joel Fiddes and  Michael Lehning. 2019. Changes in climatology, snow cover and ground temperatures at high alpine locations, Front. Earth Sci. _In review._
 
