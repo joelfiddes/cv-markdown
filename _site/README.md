@@ -1,7 +1,10 @@
-# md-cv
+## md-cv
 
 ## How to use
 My markdown CV, which currently looks something like [this](https://joelfiddes.github.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) from Ben Moore for details.
+
+### Dependencies
+https://jekyllrb.com/docs/installation/ubuntu/
 
 ### Update content
 Content:
@@ -24,10 +27,10 @@ cd ~/src/jekyll/cv-markdown
 ./publish.sh
 ```
 
-### Push website live
+### Push website live **The following NOW IN publish.sh**
 ```
-cd ~/src/jekyll/joelfiddes.github.io
-./gpush.sh # quick commit of website
+#cd ~/src/jekyll/joelfiddes.github.io
+#./gpush.sh # quick commit of website
 ```
 
 ### Check it out
