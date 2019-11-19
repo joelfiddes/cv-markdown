@@ -15,5 +15,5 @@ git add -A
 git commit -m "cv edits"
 git push
 
-cd ~/src/jekyll/joelfiddes.github.io 
-./gpush.sh # quick commit of website   
+cd ~/src/jekyll/joelfiddes.github.io
+./gpush.sh # quick commit of website
