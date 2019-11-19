@@ -152,9 +152,8 @@ Field training in glacio-hydrological methods.
 
 ### Peer reviewed
 `2019`
-Fiddes, Joel, Kristoffer Aalstad, and Sebastian Westermann. 2019. “Hyper-Resolution Ensemble-Based Snow Reanalysis in Mountain Regions Using Clustering.” Hydrology and Earth System Sciences Discussions, May, 1–32. _In press._
+Fiddes, J., Aalstad, K., and Westermann, S.: Hyper-resolution ensemble-based snow reanalysis in mountain regions using clustering, Hydrol. Earth Syst. Sci., 23, 4717–4736, 2019._  <a href="ttps://doi.org/10.5194/hess-23-4717-2019">https://doi.org/10.5194/hess-23-4717-2019</a>
 
-`2019`
 Bender, Esther ,  Joel Fiddes and  Michael Lehning. 2019. Changes in climatology, snow cover and ground temperatures at high alpine locations, Front. Earth Sci. _In review._
 
 `2016`
@@ -184,10 +183,15 @@ Matthias Keller, Guido Hungerbuehler, Oliver Knecht, Suhel Sheikh, Jan Beutel, S
 
 ### Non-peer reviewed
 `2019`
-Muccione, V, and Fiddes, J. “State of the Knowledge on Water Resources and Natural Hazards under Climate Change in Central Asia and South Caucasus.” Managing Disaster Risks and Water under Climate Change. 2019. https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:21688.
+Muccione, V, and Fiddes, J. “State of the Knowledge on Water Resources and Natural Hazards under Climate Change in Central Asia and South Caucasus.” Managing Disaster Risks and Water under Climate Change. 2019.  <a href="https://reliefweb.int/report/world/managing-disaster-risks-and-water-under-climate-change-central-asia-and-caucasus">reliefweb</a>
 
-`2019`
+
 The Status and Role of the alpine Cryosphere in Central Asia _(Book Chapter)_. Martin Hoelzle, Martina Barandun, Tobias Bolch, Joel Fiddes, Abror Gafurov, Veruska Muccione, Tomas Saks and Maria Shaghedanova _in_ The Aral Sea Basin: Water for Sustainable Development in Central Asia eds.Stefanos Xenarios, Dietrich Schmidt-Vogt, Manzoor Qadir, Barbara Janusz-Pawletta, Iskandar Abdullaev, 2019, Routledge ISBN 9781138348882.
+<a href="https://tandfbis.s3-us-west-2.amazonaws.com/rt-files/docs/Open+Access+Chapters/9781138348882_oachapter08.pdf">Chapter 8 open access</a>
+
+`2018`
+Mathias Bavay, Joel Fiddes, Charles Fierz, Michael Lehning, Fabiano Monti, Thomas Egger. THE METEOIO PRE-PROCESSING LIBRARY FOR OPERATIONAL APPLICATIONS. Proceedings, International Snow Science Workshop, Innsbruck, Austria, 2018
+<a href="http://arc.lib.montana.edu/snow-science/objects/ISSW2018_O08.2.pdf">Montana Library</a>.
 
 `2014`
 Fiddes, J. T. (2014). Subgrid Simulation of Land Surface Variables in Heterogeneous and Remote Environments: Application to Mountain Permafrost (Doctoral dissertation). <a href="http://www.library.ethz.ch/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=ebi01_prod010407703&indx=7&recIds=ebi01_prod010407703&recIdxs=6&elementId=6&renderMode=poppedOut&displayMode=full&frbrVersion=2&vid=DADS&&tab=default_tab&dscnt=0&vl(freeText0)=fiddes&dstmp=1487752542274">ETH library</a>.
@@ -205,6 +209,10 @@ Fiddes, J. (2007). Afghanistan: Implications Of Climate Change For Water Resourc
 
 
 ### Technical contributions
+`2019`
+Muccione and Manon 2019. Nexus Brief: Climate Change & Environment x Climate-Cryosphere-Water Nexus in Central Asia. Zöi Network 
+<a href="https://issuu.com/zoienvironment/docs/nexusbrief-cryosphere-eng">online version</a>
+
 `2013`
 Thomas, V., Azizi, M. A., & Ghafoori, I. (2013). Water Rights and Conflict Resolution Processes in Afghanistan: The Case of the Sar-i-Pul Sub-basin.
 
