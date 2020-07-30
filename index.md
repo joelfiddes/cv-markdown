@@ -46,7 +46,7 @@ __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Inve
 __Landell Mills Ltd__ _Consultant_ <a href="https://joelfiddes.github.io/tajsnow/">Zarafshan River Basin Programme</a>, EU TA project with Ministry of Energy and Water Resources, Tajikistan. Develop pilot routines for monitoring and modelling snow based water resources.
 
 `2017-2018`
-__University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area simulations in mountain regions.
+__University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area snowpack simulations in mountain regions.
 
 `2017-2018`
 __World Meteorological Organistation__ _Consultant_ for the <a href="https://joelfiddes.github.io/wmo_gcw/">WMO programme Global Cryosphere Watch</a>. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
@@ -63,20 +63,20 @@ __University of Zurich__ _Scientist_. Managing PERMOS network of ground and rock
 `2014`
 __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
 
-<!-- `2012`-->
-<!-- __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin. -->
+`2012`
+__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin. -->
 
 `2011`
 __GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan, Afghanistan for GIZ. Component avalanche hazard risk zones.
 
-<!-- `2011` -->
-<!-- __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin. -->
+`2011` -->
+__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin. -->
 
 `2010-2011`
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
 
-<!--  `2009` -->
-<!-- __Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management. -->
+`2009` 
+__Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management. -->
 
 `2009-2013`
 __University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployment of temperature sensors.
@@ -84,10 +84,10 @@ __University of Zurich__ _Scientific researcher/ PhD Candidate_. National scienc
 `2009`
 __Agha Khan Foundation__ _Consultant_. Training in GIS systems and geospatial survey for AKF project engineers in Puli Khumri NE Afghanistan. 
 
-<!--
+
 `2007-2017`
 __Independent Consultant__ Projects mainly in field of water resources include: Environmental change analysis, capacity building, surveying / mapping, technical training. Clients include: multinational/ national donors, development consultancies, NGOs, e.g. European Commission, Landell Mills Ltd. Agha Khan Foundation, GIZ, Concern Worldwide.
--->
+
 
 `2008`
 __Welt Hunger Hilfe__ _Consultant_. Upper catchment protection project "PEEP": training in geospatial survey and GIS systems for PEEP project staff.
@@ -95,8 +95,8 @@ __Welt Hunger Hilfe__ _Consultant_. Upper catchment protection project "PEEP": t
 `2008`
 __Concern Worldwide/ Welt Hunger Hilfe__ _Consultant_. Social water management and upper catchment protection projects "SWIM/SMILE": Established GIS systems and conducted training in geospatial surveys for project staff. Surveying of irrigation channels and infrastructure.
 
-<!-- `2008` -->
-<!-- __Concern Worldwide__ _Consultant_. Market analysis for natural resorce based products in Takhar NE Afghanistan. -->
+`2008`
+__Concern Worldwide__ _Consultant_. Market analysis for natural resorce based products in Takhar NE Afghanistan.
 
 `2007`
 __Landell Mills Ltd.__ _Consultant_. Environmental screening report for irrigation rehabilitation component of Kunduz River Basin Programme. Additionally provided concept note on methods in snow and ice monitoring.
@@ -118,7 +118,9 @@ Remote sensing services, analysis of environmental change, snow cover, drought c
 Proposal writing and Project management.
 
 `Field`
-Establishment of field monitoring tools, deployment of sensors.
+Establishment of field monitoring tools, deployment of sensors/ stations.
+
+Scientific expedition planning and leading.
 
 Impact of climate change in mountain regions and implications for development activities/ communities.
 
