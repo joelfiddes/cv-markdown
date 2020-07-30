@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Joel Fiddes CV
+title:
 ---
 # Dr Joel Fiddes
 Geoscientist
