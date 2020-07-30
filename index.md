@@ -64,13 +64,13 @@ __University of Zurich__ _Scientist_. Managing PERMOS network of ground and rock
 __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
 
 `2012`
-__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin. -->
+__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin.
 
 `2011`
 __GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan, Afghanistan for GIZ. Component avalanche hazard risk zones.
 
-`2011` -->
-__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin. -->
+`2011`
+__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin.
 
 `2010-2011`
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
