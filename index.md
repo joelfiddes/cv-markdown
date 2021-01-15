@@ -23,11 +23,8 @@ Geoscientist
 
 I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations and multilateral donor projects. My main interest is in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modeliing and in situ data to make robust predictions in various environmental domains. My main work is focused on high mountain regions but have increasingly used these tools and approaches to address forest carbon stocks.  
 
-
-
 <!--on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods.   
  I'm currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. -->
-
 
 ## Education
 
@@ -38,32 +35,32 @@ __University of Zurich__ PhD Geoscience. Thesis: Subgrid Simulation of Land Surf
 __University of Edinburgh__ MSc Environment & development. Thesis: Impact of climate change on snow-based water resources in Afghanistan.
 
 `2001-04`
-__University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of subsistence hunting on Neotropical mammal species in North-East Peruvian Amazon. 
+__University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainability of subsistence hunting on Neotropical mammal species in North-East Peruvian Amazon. 
 
 
 ## Employment & Projects
 
-`2021-`
+`2021`
 __Permian Global__ _Consultant_. Tool for automated retrieval and analysis of remote sensing datsets to estimate deforestation rates.
 
-`2020-`
+`2020`
 __Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models.
 
 __ETH Zurich__ _Consultant_. Implemeneting mapping routines (remote sensing based models) for Carbon Potential project.
 
-`2018-`
+`2018-24`
 __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments".
 
-`2018-2020`
+`2018-20`
 __Landell Mills Ltd__ _Consultant_ <a href="https://joelfiddes.github.io/tajsnow/">Zarafshan River Basin Programme</a>, EU TA project with Ministry of Energy and Water Resources, Tajikistan. Develop pilot routines for monitoring and modelling snow based water resources.
 
-`2017-2018`
+`2017-18`
 __University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area snowpack simulations in mountain regions.
 
-`2017-2018`
+`2017-18`
 __World Meteorological Organistation__ _Consultant_ for the <a href="https://joelfiddes.github.io/wmo_gcw/">WMO programme Global Cryosphere Watch</a>. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
 
-`2014-2017`
+`2014-17`
 __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institue in Switzerland for both hydrology and natural hazard assesments.
 
 `2016`
@@ -84,20 +81,20 @@ __GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan, Af
 `2011`
 __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin.
 
-`2010-2011`
+`2010-11`
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
 
 `2009` 
 __Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management. -->
 
-`2009-2013`
+`2009-13`
 __University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployment of temperature sensors.
 
 `2009`
 __Agha Khan Foundation__ _Consultant_. Training in GIS systems and geospatial survey for AKF project engineers in Puli Khumri NE Afghanistan. 
 
 
-`2007-2017`
+`2007-17`
 __Independent Consultant__ Projects mainly in field of water resources include: Environmental change analysis, capacity building, surveying / mapping, technical training. Clients include: multinational/ national donors, development consultancies, NGOs, e.g. European Commission, Landell Mills Ltd. Agha Khan Foundation, GIZ, Concern Worldwide.
 
 
@@ -116,7 +113,7 @@ __Landell Mills Ltd.__ _Consultant_. Environmental screening report for irrigati
 `2007`
 __Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan. Collaboration with the Landell Mills led European Commision Kunduz River Basin Programme.
 
-`1999-2004`
+`1999-04`
 __Formative research expeditions__ Gulf apex predator prey project (_University Alaska Fairbanks, Alaska, 2004_). Subsistence hunting study (_University of Aberdeen/ Royal Geographical Society, Peruvian Amazon, 2003_), Coral reef biodiversity monitoring (_Greenforce/ University of Malaysia, Borneo, 2001_), Tian Shan biodiversity study (_BSES/CEH, Kyrgyzstan, 1999_).
 
 ## Core competences
@@ -165,8 +162,8 @@ Field training in glacio-hydrological methods.
 ## Publications
 
 ### Peer reviewed
-`2020`
 
+`2020`
 Barandun, Martina, **Joel Fiddes**, Martin Scherler, Tamara Mathys, Tomas Saks, Dmitry Petrakov, and Martin Hoelzle. 2020. “The State and Future of the Cryosphere in Central Asia.” Water Security 11 (December): 100072.
 
 Bavay, M., **Fiddes, J.** and Godøy, Ø., 2020. Automatic Data Standardization for the Global Cryosphere Watch Data Portal. Data Science Journal, 19(1), p.6. DOI: <a href="http://doi.org/10.5334/dsj-2020-006">10.5334/dsj-2020-006</a>
