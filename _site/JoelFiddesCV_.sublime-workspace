@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"config_path"
+			],
+			[
+				"samp",
+				"samp_results"
+			],
+			[
+				"sn",
+				"snowSMIN"
+			],
+			[
+				"swin",
+				"swinfinished"
+			],
+			[
+				"tsca",
+				"tscale_lib"
+			],
+			[
+				"gr",
+				"gridLon"
+			],
+			[
+				"grid",
+				"gridT"
+			],
+			[
+				"gri",
+				"gridT"
+			],
+			[
+				"out",
+				"out_xyz"
+			],
+			[
+				"time",
+				"time_size"
+			],
+			[
+				"ens",
+				"ens_sim"
+			],
+			[
+				"most",
+				"mostSigEnsembles"
+			],
+			[
+				"found",
+				"foundSmets"
+			],
+			[
+				"sta",
+				"stat_vec"
+			],
+			[
+				"IM",
+				"IMIS_ST"
+			],
+			[
+				"stt",
+				"stationNames"
+			],
+			[
+				"station",
+				"stationNames"
+			],
+			[
+				"stat",
+				"stationNames"
+			],
+			[
+				"va",
+				"val_shp"
+			],
+			[
+				"dem",
+				"demDir"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"raster",
+				"rasters1"
+			],
+			[
+				"my",
+				"mygrey"
+			],
+			[
+				"sp.",
+				"sp.grid"
+			],
+			[
+				"ense",
+				"ensembRes2"
+			],
+			[
+				"date",
+				"datesweget"
+			],
+			[
+				"last",
+				"lastDayIndex"
+			],
+			[
+				"fir",
+				"firstDayIndex"
+			],
+			[
+				"first",
+				"firstnonNA"
+			],
+			[
+				"mis",
+				"missingdatesIndex"
+			],
+			[
+				"firt",
+				"firstnonNA"
+			],
+			[
+				"dat",
+				"datesweget"
+			],
+			[
+				"da",
+				"fsca_dates"
+			],
+			[
+				"sort",
+				"fl_sort"
+			],
+			[
+				"mean",
+				"meanVals"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"sam",
+				"sample_indexes"
+			],
+			[
+				"output",
+				"outputFormat"
+			],
+			[
+				"mass",
+				"mass_of_m3_air"
+			],
+			[
+				"redu",
+				"reduceSteepSnow"
+			],
+			[
+				"steep",
+				"steepSnowReduce"
+			],
+			[
+				"svf",
+				"svfMaxDist"
+			],
+			[
+				"qmap",
+				"qmap_files"
+			],
+			[
+				"re",
+				"recursive"
+			],
+			[
+				"carb",
+				"carbmap30"
+			],
+			[
+				"rclass",
+				"reclass_slp"
+			],
+			[
+				"reclass",
+				"reclassified_dem"
+			],
+			[
+				"daily",
+				"daily_cordex"
+			],
+			[
+				"extract",
+				"extract_timeseries"
+			],
+			[
+				"raw_",
+				"raw_dir"
+			],
+			[
+				"op",
+				"optim_year"
+			],
+			[
+				"obs_cp_",
+				"obs_cp_dates"
+			],
+			[
+				"obs",
+				"obs_cp_period"
+			],
+			[
+				"hist_no",
+				"hist_noqmap_year"
+			],
+			[
+				"endDa",
+				"endDateQmap"
+			],
+			[
+				"start",
+				"startDateQmap"
+			],
+			[
+				"Da",
+				"datetimeindex"
+			],
+			[
+				"ge",
+				"geotop_out"
+			],
+			[
+				"data_",
+				"data_obs_daily"
+			],
+			[
+				"scali",
+				"scalingFact_day"
+			],
+			[
+				"df_i",
+				"df_interpol_day"
+			],
+			[
+				"obs_day",
+				"obs_day_dat"
+			],
+			[
+				"wind",
+				"windDir"
+			],
+			[
+				"w",
+				"windSpd"
+			],
+			[
+				"startDat",
+				"startDateRcp85"
+			],
+			[
+				"hist",
+				"hist_files"
+			],
+			[
+				"tas",
+				"tas_all"
+			],
+			[
+				"step",
+				"stephr"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"hi",
+				"high.pri"
+			],
+			[
+				"lf_",
+				"lf_resamp"
+			],
+			[
+				"rst",
+				"rstack"
+			],
+			[
+				"landfor",
+				"landform_agg"
+			],
+			[
+				"T",
+				"TRUE"
+			],
+			[
+				"mod",
+				"modisRepo"
+			],
+			[
+				"fsm",
+				"fsmFilename"
+			],
+			[
+				"era",
+				"eraDir"
+			],
+			[
+				"end",
+				"endYear"
+			],
+			[
+				"mountain",
+				"mountainsense"
+			],
+			[
+				"ti",
+				"timestamp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"terminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminu",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"comm",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"lp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"sen",
+				"SendCode: Choose Program"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Terminus: Open Default Shell in View"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 444.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/joel/sim/tmapp_points_test/out/tscale_1.csv",
+		"/home/joel/src/tmapp-evo/era5get/fetch_era5.py",
+		"/home/joel/src/tmapp-evo/era5get/getMeteo.py",
+		"/home/joel/src/tmapp-evo/tmapp_local_run.py",
+		"/home/joel/src/tmapp-evo/slurm/slurm_tscale_points.sh",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_setup_points.py",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_svf_points.py",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_sim.py",
+		"/home/joel/src/tmapp-evo/tscale/tscale_lib.py",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_tscale.py",
+		"/home/joel/src/tmapp-evo/slurm/slurm_sim.sh",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_concat.py",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_tscale_points.py",
+		"/home/joel/src/tmapp-evo/rsrc/computeTopo_SVF_points.R",
+		"/home/joel/src/tmapp-evo/rsrc/makeListpoints2_points.R",
+		"/home/joel/src/tscale-evo/tscale_lib.py",
+		"/home/joel/Projects/2021/walter_langtang/StationLocationLangtang_TOPOScale.csv",
+		"/home/joel/src/tmapp-evo/cosmo_run.py",
+		"/home/joel/src/tmapp-evo/tscale/read_era5.py",
+		"/home/joel/src/tmapp-evo/cosmo_map.py",
+		"/home/joel/src/tmapp-evo/cosmo_map_snow.py",
+		"/home/joel/sim/ccamm_intercomp/cosmo/out/tscale_1.csv",
+		"/home/joel/src/tmapp-evo/cosmo_listpoints.R",
+		"/home/joel/sim/ccamm_intercomp/cosmo/fsm_sims/swe.csv",
+		"/home/joel/src/tmapp-evo/XYZ.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/fsm_sims/hs.csv",
+		"/home/joel/src/tmapp-evo/maps/writeNetcdf_met.py",
+		"/home/joel/src/tmapp-evo/maps/toNc_met.py",
+		"/home/joel/src/tmapp-evo/rsrc/spatialize_cosmo.R",
+		"/home/joel/src/tmapp-evo/rsrc/toposub_evo.R",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_setup.py",
+		"/home/joel/src/tmapp-evo/da/simpleDA_era5_evo.R",
+		"/home/joel/src/tmapp-evo/da/simpleDA_gcos_evo.R",
+		"/home/joel/src/tmapp-evo/da/simpleDA_imis_evo.R",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_map.py",
+		"/home/joel/src/tmapp-evo/tscale/solarGeom.py",
+		"/home/joel/sim/qmap/local_test/ensemble/ensemble001/fsm_1.csv",
+		"/home/joel/src/tmapp2/rsrc/spatialize_cosmo.R",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_da_FSM_hpc.py",
+		"/home/joel/src/tmapp-evo/rsrc/spatialize.R",
+		"/home/joel/src/tmapp-evo/cosmo_spatial.R",
+		"/home/joel/src/tscale-evo/toNc.py",
+		"/home/joel/src/tmapp2/rsrc/spatialize.R",
+		"/home/joel/src/tmapp2/rsrc/spatialize_nc.R",
+		"/home/joel/src/tscale-evo/toNc_met.py",
+		"/home/joel/sim/ccamm_intercomp/cosmo/out/ta.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/out/tscale_2.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/rasterOut/mean_ts_4_2019-03-01T00.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/rasterOut/mean_ts_4_472.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/rasterOut/mean_ts_4_0.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/rasterOut/mean_ts_4_2019-03-01T01:00:00.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/rasterOut/mean_ts_4_2019-03-01T06.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/outta.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/outRf.csv",
+		"/home/joel/src/tmapp2/rsrc/spatialise_cosmo.R",
+		"/home/joel/sim/ccamm_intercomp/cosmo/out/meteoc1_2019-01-01to2019-05-31.csv",
+		"/home/joel/src/topoCLIM/coords.txt",
+		"/tmp/mozilla_joel0/StationLocationLangtang_TOPOScale.csv",
+		"/home/joel/sim/ccamm_intercomp/cosmo/out/meteoc1_2019-01-01to2019-04-30.csv",
+		"/home/joel/src/tmapp-evo/tscale/read_cosmo.py",
+		"/home/joel/src/tmapp-evo/tscale/cosmo_run.py",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_svf.py",
+		"/home/joel/src/tmapp2/tmapp_hpc_setup.py",
+		"/home/joel/src/tmapp-evo/tscale/tscale.py",
+		"/home/joel/sim/qmap/local_test/out/tscale_14.csv",
+		"/home/joel/sim/qmap/local_test/spatial/mean_ts_2_2009-04-142009-04-14.csv",
+		"/home/joel/sim/qmap/local_test/out/tscale_37.csv",
+		"/home/joel/sim/qmap/local_test/ensemble/ensemble081/fsm_1.csv",
+		"/home/joel/sim/qmap/local_test/ensemble/ensembResHS011.csv",
+		"/home/joel/src/tmapp-evo/rsrc/ensemGen.R",
+		"/home/joel/sim/qmap/local_test2/ensemble/ensemble001/fsm_60.csv",
+		"/home/joel/sim/qmap/local_test2/ensemble/ensemble001/tscale_60.csv",
+		"/home/joel/src/tmapp-evo/tmapp_hpc_run.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_da.sh",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_HX.py",
+		"/home/joel/src/tmapp-evo/rsrc/process_modis.R",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_lib.py",
+		"/home/joel/sim/qmap/local_test/ensemble/ensemble.csv",
+		"/home/joel/src/tmapp-evo/rsrc/PBS.R",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_daGetResults.py",
+		"/home/joel/sim/qmap/local_test2/ensemble/ensemble001/fsm_92.csv",
+		"/home/joel/sim/qmap/local_test/ensemble/openloopRes.csv",
+		"/home/joel/sim/qmap/local_test/ensemble/ensembResHS021.csv",
+		"/home/joel/sim/qmap/local_test/ensemble/ensembResHS007.csv",
+		"/home/joel/sim/qmap/local_test/ensemble/ensembResHS032.csv",
+		"/home/joel/sim/qmap/local_test/ensemble/ensembResHS001.csv",
+		"/home/joel/src/tmapp-evo/simpleDA_era5_evo.R",
+		"/home/joel/src/tmapp-evo/da_plot_evo.sh",
+		"/home/joel/src/tmapp-evo/README.md",
+		"/home/joel/src/tmapp2/README.md",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_perturb.py",
+		"/home/joel/src/tmapp-evo/tmapp/tmapp_hpc_daRunEnsemble.py",
+		"/home/joel/src/tmapp-evo/simpleDA_imis_evo.R",
+		"/home/joel/src/tmapp-evo/rsrc/computeSVF.R",
+		"/home/joel/src/tmapp2/tmapp_hpc_map.py",
+		"/home/joel/src/tmapp2/tmapp_hpc_sim.py",
+		"/home/joel/src/topoMAPP/TMgrid.py",
+		"/home/joel/src/tmapp-evo/rsrc/computeTopo.R",
+		"/home/joel/src/tmapp-evo/da_plot.sh",
+		"/home/joel/src/tmapp-evo/simpleDA_imis.R",
+		"/home/joel/src/tmapp-evo/simpleDA_era5.R",
+		"/home/joel/manuscripts/qmap/paper_specific_code/points_val.py",
+		"/home/joel/src/topoMAPP/rsrc/spatialda_plot.R",
+		"/home/joel/src/topoMAPP/rsrc/PBSpixel_merge.R",
+		"/home/joel/mnt/myserver/nas/data/imis/data/montblanc/ELA_3BROKEN.csv",
+		"/home/joel/mnt/myserver/nas/data/imis/data/montblanc/ELA_2.csv",
+		"/home/joel/manuscripts/qmap/paper_specific_code/points_val.R",
+		"/home/joel/src/tmapp-evo/slurm/slurm_pbs.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_modis.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_map.sh",
+		"/home/joel/src/tmapp-evo/tmapp_hpc_run_points.sh",
+		"/home/joel/src/tmapp-evo/tclim_hpc_run.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_perturb.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_qmap.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_qmap_post.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_qmap_setup.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_setup.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_setup_points.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_svf.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_svf_points.sh",
+		"/home/joel/src/tmapp-evo/slurm/slurm_tscale.sh",
+		"/home/joel/src/tmapp-evo/src/tmapp/tmapp_hpc_svf_points.py",
+		"/home/joel/src/tmapp-evo/src/tmapp/tmapp_hpc_tscale.py",
+		"/home/joel/src/tmapp-evo/src/tmapp/tmapp_hpc_tscale_points.py",
+		"/home/joel/src/tmapp-evo/src/tmapp/tmapp_hpc_svf.py",
+		"/home/joel/src/tmapp-evo/src/tmapp/tmapp_hpc_setup_points.py",
+		"/home/joel/src/tmapp-evo/src/tmapp/tmapp_hpc_setup.py",
+		"/home/joel/src/tmapp-evo/src/slurm/slurm_qmap.sh"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 143.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "JoelFiddesCV_.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
