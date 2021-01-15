@@ -46,7 +46,7 @@ __Permian Global__ _Consultant_. Tool for automated retrieval and analysis of re
 `2020`
 __Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models.
 
-__ETH Zurich__ _Consultant_. Implemeneting mapping routines (remote sensing based models) for Carbon Potential project.
+__ETH Zurich__ _Consultant_. Implementing mapping routines (remote sensing based models) for "Mapping Carbon Potential" project.
 
 `2018-24`
 __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments".
