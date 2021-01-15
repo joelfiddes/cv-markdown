@@ -21,8 +21,12 @@ Geoscientist
 
 ## Currently
 
-I am a geoscientist with over 10 years of interdisciplinary experience working across research institutions, international organistations and multilateral donor projects. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods.   
-<!-- I'm currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. -->
+I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations and multilateral donor projects. My main interest is in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modeliing and in situ data to make robust predictions in various environmental domains. My main work is focused on high mountain regions but have increasingly used these tools and approaches to address forest carbon stocks.  
+
+
+
+<!--on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods.   
+ I'm currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. -->
 
 
 ## Education
@@ -39,10 +43,18 @@ __University of Aberdeen__ BSc Environmental science. Thesis: Sustainability of 
 
 ## Employment & Projects
 
+`2021-`
+__Permian Global__ _Consultant_. Tool for automated retrieval and analysis of remote sensing datsets to estimate deforestation rates.
+
+`2020-`
+__Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models.
+
+__ETH Zurich__ _Consultant_. Implemeneting mapping routines (remote sensing based models) for Carbon Potential project.
+
 `2018-`
 __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments".
 
-`2018-2019`
+`2018-2020`
 __Landell Mills Ltd__ _Consultant_ <a href="https://joelfiddes.github.io/tajsnow/">Zarafshan River Basin Programme</a>, EU TA project with Ministry of Energy and Water Resources, Tajikistan. Develop pilot routines for monitoring and modelling snow based water resources.
 
 `2017-2018`
@@ -154,9 +166,14 @@ Field training in glacio-hydrological methods.
 
 ### Peer reviewed
 `2020`
+
+Barandun, Martina, **Joel Fiddes**, Martin Scherler, Tamara Mathys, Tomas Saks, Dmitry Petrakov, and Martin Hoelzle. 2020. “The State and Future of the Cryosphere in Central Asia.” Water Security 11 (December): 100072.
+
 Bavay, M., **Fiddes, J.** and Godøy, Ø., 2020. Automatic Data Standardization for the Global Cryosphere Watch Data Portal. Data Science Journal, 19(1), p.6. DOI: <a href="http://doi.org/10.5334/dsj-2020-006">10.5334/dsj-2020-006</a>
 
 Bender, E.,  Lehning, M., & **Fiddes, J.** 2020. Changes in climatology, snow cover and ground temperatures at high alpine locations, Front. Earth Sci. _In press._
+
+Philipson, Christopher D., Mark E. J. Cutler, Philip G. Brodrick, Gregory P. Asner, Doreen S. Boyd, Pedro Moura Costa, **Joel Fiddes**, et al. 2020. “Active Restoration Accelerates the Carbon Recovery of Human-Modified Tropical Forests.” Science 369 (6505): 838–41.
 
 `2019`
 **Fiddes, J.**, Aalstad, K., and Westermann, S.: Hyper-resolution ensemble-based snow reanalysis in mountain regions using clustering, Hydrol. Earth Syst. Sci., 23, 4717–4736, 2019._  <a href="https://doi.org/10.5194/hess-23-4717-2019">10.5194/hess-23-4717-2019</a>
