@@ -24,7 +24,7 @@ Geoscientist
 I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations and multilateral donor projects. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
 
 <!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modeliing and in situ data to make robust predictions in various environmental domains.  -->
-<!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> -->
+<!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> 
 ## Education
 
 `2009-13`
@@ -39,16 +39,11 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 
 ## Employment & Projects
 
-`2021`
-__Permian Global__ _Consultant_. Tool for automated retrieval and analysis of remote sensing datsets to estimate deforestation rates.
-
-`2020`
-__Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models.
-
-__ETH Zurich__ _Consultant_. Implementing mapping routines (remote sensing based models) for "Mapping Carbon Potential" project.
-
 `2018-24`
-__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments".
+__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia CROMO-ADAPT (2021-2025) and WWCS together with CARITAS CH (2020-2024). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners.
+
+`2020-2021`
+__Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models. Tools for automated retrieval and analysis of remote sensing datsets to estimate deforestation rates.
 
 `2018-20`
 __Landell Mills Ltd__ _Consultant_ <a href="https://joelfiddes.github.io/tajsnow/">Zarafshan River Basin Programme</a>, EU TA project with Ministry of Energy and Water Resources, Tajikistan. Develop pilot routines for monitoring and modelling snow based water resources.
