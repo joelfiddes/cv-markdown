@@ -21,11 +21,10 @@ Geoscientist
 
 ## Currently
 
-I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations and multilateral donor projects. My main interest is in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modeliing and in situ data to make robust predictions in various environmental domains. My main work is focused on high mountain regions but have increasingly used these tools and approaches to address forest carbon stocks.  
+I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations and multilateral donor projects. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
 
-<!--on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods.   
- I'm currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. -->
-
+<!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modeliing and in situ data to make robust predictions in various environmental domains.  -->
+<!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> -->
 ## Education
 
 `2009-13`
