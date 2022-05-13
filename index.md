@@ -39,8 +39,8 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 
 ## Employment & Projects
 
-`2018-24`
-__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia CROMO-ADAPT (2021-2025) and WWCS together with CARITAS CH (2020-2024). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners.
+`2018-`
+__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia CROMO-ADAPT (2021-2025) and WWCS together with CARITAS CH (2020-2024). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. Member of the Swiss Polar Institute flagship project "PAMIR".
 
 `2020-2021`
 __Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models. Tools for automated retrieval and analysis of remote sensing datsets to estimate deforestation rates.
