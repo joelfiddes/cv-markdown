@@ -156,6 +156,15 @@ Field training in glacio-hydrological methods.
 ## Publications
 
 ### Peer reviewed
+`2022`
+**Fiddes, J**., K. Aalstad, and M. Lehning, 2022: TopoCLIM: rapid topography-based downscaling of regional climate model output in complex terrain v1.1. Geosci. Model Dev., 15, 1753–1768.
+
+Kronenberg, M., W. van Pelt, H. Machguth, **J. Fiddes**, M. Hoelzle, and F. Pertziger, 2022: Long-term firn and mass balance modelling for Abramov glacier, Pamir Alay. The Cryosphere Discussions, 1–33.
+
+Kruyt, B., R. Mott, **J. Fiddes**, F. Gerber, V. Sharma, and D. Reynolds, 2022: A Downscaling Intercomparison Study: The Representation of Slope-and Ridge-Scale Processes in Models of Different Complexity. Front Earth Sci. Chin., 10, 789332.
+
+`2021`
+Shugar, D. H., **et al.** "A massive rock and ice avalanche caused the 2021 disaster at Chamoli, Indian Himalaya." Science (New York, NY) 373.6552 (2021): 300-306.
 
 `2020`
 Barandun, Martina, **Joel Fiddes**, Martin Scherler, Tamara Mathys, Tomas Saks, Dmitry Petrakov, and Martin Hoelzle. 2020. “The State and Future of the Cryosphere in Central Asia.” Water Security 11 (December): 100072.
@@ -194,6 +203,9 @@ Matthias Keller, Guido Hungerbuehler, Oliver Knecht, Suhel Sheikh, Jan Beutel, S
 
 
 ### Non-peer reviewed
+`2021`
+Allen, S., H. Playford Frey, and J. Fiddes, 2021: Assessment of Contributing Factors of the May 2021 Disasters in Tajikistan : A Forensic Study Under the Strengthening Critical Infrastructure Against Natural Hazards Project.
+
 `2019`
 Muccione, V, and **Fiddes, J.** “State of the Knowledge on Water Resources and Natural Hazards under Climate Change in Central Asia and South Caucasus.” Managing Disaster Risks and Water under Climate Change. 2019.  <a href="https://reliefweb.int/report/world/managing-disaster-risks-and-water-under-climate-change-central-asia-and-caucasus">reliefweb</a>
 
