@@ -7,7 +7,7 @@ Geoscientist
 
 <div id="webaddress">
 
-<i class="fa fa-envelope"></i> <a href="joelfiddes@gmail.com">joelfiddes@gmail.com</a>
+<i class="fa fa-envelope"></i> <a href="joelfiddes@gmail.com">joel.fiddes@slf.ch</a>
 |
 <i class="fa fa-github"></i> <a href="https://joelfiddes.github.io">Website</a>
 |
