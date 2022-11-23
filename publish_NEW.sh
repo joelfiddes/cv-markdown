@@ -23,3 +23,5 @@ cd ~/src/jekyll/joelfiddes.github.io
 # make pdf
 date=$(date +%Y-%m-%d)
 wkhtmltopdf https://joelfiddes.github.io/cv/ /home/joel/src/jekyll/cv-markdown/JoelFiddesCV_$date.pdf
+
+
