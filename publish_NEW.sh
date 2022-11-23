@@ -4,12 +4,12 @@ cd ~/src/jekyll/cv-markdown/css
 pandoc --css=cv-screen.css -s -f markdown+smart --metadata  pagetitle="joelfiddesCV" --to=html5 /home/joel/src/jekyll/cv-markdown/index.md -o /home/joel/src/jekyll/joelfiddes.github.io/cv/index.html
 
 # remove old files from website dir
-rm -R ../joelfiddes.github.io/cv/*
+#rm -R ../joelfiddes.github.io/cv/*
 
 # re-add new html
-cp /home/joel/src/jekyll/cv-markdown/css/index.html /home/joel/src/jekyll/joelfiddes.github.io/cv/index.html
+#cp /home/joel/src/jekyll/cv-markdown/css/index.html /home/joel/src/jekyll/joelfiddes.github.io/cv/index.html
 # and css
-cp -R _site/media ../joelfiddes.github.io/cv/.
+#cp -R _site/media ../joelfiddes.github.io/cv/.
 
 # commit cv edits
 git add -A
