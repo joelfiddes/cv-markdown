@@ -35,7 +35,8 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 ## Employment & Projects
 
 
-`Current (since 2018)`
+`Current`
+`Current`
 __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia <a href="https://www.eda.admin.ch/deza/de/home/themen/wasser.html/content/dezaprojects/SDC/en/2019/7F10279/phase1?oldPagePath=/content/deza/de/home/themen/wasser.html">"Cryosphere Observations and Modelling for Improved Adaptation in Central Asia"</a> (CROMO-ADAPT  2021-2025) and <a href="https://www.caritas.ch/en/what-we-do/worldwide/climate/tajikistan-weather-data-helps-farmers-to-improve-their-productivity.html">"Water, Weather and Climate Services"</a> with CARITAS CH (WWCS 2021-2025). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. I am a Member of the Swiss Polar Institute flagship project <a href="https://pamir-project.ch/">"PAMIR"</a> and contribute to data sharing projects of the WMO such as <a href="https://public.wmo.int/en/our-mandate/focus-areas/cryosphere/GCW">"Global Cryosphere Watch"</a>
 
 
