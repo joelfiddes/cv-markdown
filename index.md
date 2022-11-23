@@ -116,8 +116,8 @@ __Mercy Corps__ _Researcher_. Author of a policy document for global humanitaria
 __Formative research expeditions__ Gulf apex predator prey project (_University Alaska Fairbanks, Alaska, 2004_). Subsistence hunting study (_University of Aberdeen/ Royal Geographical Society, Peruvian Amazon, 2003_), Coral reef biodiversity monitoring (_Greenforce/ University of Malaysia, Borneo, 2001_), Tian Shan biodiversity study (_BSES/CEH, Kyrgyzstan, 1999_).
 
 ## Core competences
-`Technical`
-Land-surface modelling and model development with focus on mountain environments.
+`Tech`
+Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
 
 Environmental analysis using climate data and other large datasets.
 
@@ -128,7 +128,7 @@ Proposal writing and Project management.
 `Field`
 Establishment of field monitoring tools, deployment of sensors/ stations.
 
-Scientific expedition planning and leading.
+Scientific expedition planning and leadership.
 
 Impact of climate change in mountain regions and implications for development activities/ communities.
 
