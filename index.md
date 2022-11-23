@@ -20,7 +20,7 @@ Geoscientist
 
 ## Currently
 
-I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations and donor projects. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
+I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations, government institutions and donor projects. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. Increasingly I am working with government institutions to support updating of hydrometerological forecasting procedures, particularly with respect to the cryosphere. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
 
 <!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modeliing and in situ data to make robust predictions in various environmental domains.  -->
 <!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> 
@@ -37,6 +37,16 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 
 
 ## Employment & Projects
+
+
+`2022`
+__World Meteorological Organistation__ _Consultant_ Analysis and inventory of existing mountain observation and data sources related to snow, glaciers, permafrost, discharge, and ancillary data in Central Asia (Afghanistan, Tajikistan, Kyrgyzstan, Uzbekistan and Kazakhstan)
+
+`2021-2023`
+__FutureWater__ _Consultant_ Developing a Glacio-Hydrological Model and IWRM Plan for a Selected Sub-basin in the Central Himalayas, Uttarakhand, India financed by the Swiss Agency Development Cooperation (www.futurewater.eu).
+
+`2021-`
+__World Bank__ _Consultant_ Assessment Of Contributing Factors Of The May 2021 Disasters In Tajikistan. A forensic study under the Strengthening Critical Infrastructure against Natural Hazards Project (SCINHP, P158298)
 
 `2018-`
 __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia CROMO-ADAPT (2021-2025) and WWCS together with CARITAS CH (2020-2024). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. Member of the Swiss Polar Institute flagship project "PAMIR".
@@ -233,6 +243,12 @@ Keller, M., Hungerbuehler, G., Knecht, O., Sheikh, S., Beutel, J., Gubler, S., *
 
 
 ## Grants & Awards
+
+`2022` 
+Cryospheric Observation and Modelling for improved Adaptation in Central Asia (CROMO-ADAPT) (Co-PI) (_1.3Mio CHF_)
+
+`2021` 
+Swiss Agency for Development and Cooperation cryospheric Observation and Modelling for improved Adaptation in Central Asia (CROMO-ADAPT) Opening phase CROMO-ADAPT (Co-PI) (_120k CHF_)
 
 `2019`
 Expedition to install permafrost monitoring network in Northern Alai Range Tajikistan, Mount Everest Foundation (_4K CHF_)
