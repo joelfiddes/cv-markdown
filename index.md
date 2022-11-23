@@ -45,7 +45,7 @@ __FutureWater__ _Consultant_ Developing a Glacio-Hydrological Model and IWRM Pla
 __World Bank__ _Consultant_ Assessment Of Contributing Factors Of The May 2021 Disasters In Tajikistan. A forensic study under the Strengthening Critical Infrastructure against Natural Hazards Project (SCINHP, P158298)
 
 `2018-25`
-__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia CROMO-ADAPT (2021-2025) and WWCS together with CARITAS CH (2020-2024). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. Member of the Swiss Polar Institute flagship project "PAMIR".
+__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia CROMO-ADAPT "Cryospghere Observations and Modelling for Improved Adaptation in Central Asia" (2021-2025) and WWCS "Water, Weather and Climate Services" together with CARITAS CH (2020-2024). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. Member of the Swiss Polar Institute flagship project "PAMIR".
 
 `2020-21`
 __Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models. Tools for automated retrieval and analysis of remote sensing datsets to estimate deforestation rates.
@@ -117,13 +117,17 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 
 ## Core competences
 `Tech`
+Hydrometeorological climate service development and delivery
+
+Data systems, data sharing from technology to politics
+
 Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
 
 Environmental analysis using climate data and other large datasets.
 
 Remote sensing services, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
 
-Proposal writing and Project management.
+strategic documents, Proposal writing and Project management.
 
 `Field`
 Establishment of field monitoring tools, deployment of sensors/ stations.
@@ -146,6 +150,7 @@ Field training in glacio-hydrological methods.
 * Numerical models
 * Remote sensing / image processing
 * Statistical analysis
+* Data exchange systems
 * Large data processing
 * SQL / Postgres
 * Database management
