@@ -16,7 +16,7 @@ Geoscientist
 
 ## Currently
 
-I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations, government institutions and donor projects. My main interest is on high mountain processes related to natural hazards, water resources and resulting impacts upon communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. Increasingly I am working with government institutions to support updating of hydrometerological forecasting procedures, particularly with respect to the cryosphere. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
+I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations, government institutions and donor projects. My main interest is in the quantification of high mountain processes related to water resources and natural hazards, to better understand and mitigate impacts upon downstream communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. Increasingly I am working with government institutions to support updating of hydrometerological forecasting procedures, particularly with respect to the cryosphere. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
 
 <!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modeliing and in situ data to make robust predictions in various environmental domains.  -->
 <!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> 
@@ -84,7 +84,7 @@ __Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
 
 `2009` 
-__Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management. -->
+__Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management.
 
 `2009-13`
 __University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployment of temperature sensors.
