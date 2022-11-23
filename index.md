@@ -117,31 +117,31 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 
 ## Core competences
 `Tech`
-* Hydrometeorological climate service development and delivery
+Hydrometeorological climate service development and delivery
 
-* Data systems, data sharing from technology to politics
+Data systems, data sharing from technology to politics
 
-* Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
+Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
 
-* Environmental analysis using climate data and other large datasets.
+Environmental analysis using climate data and other large datasets.
 
-* Remote sensing services, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
+Remote sensing services, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
 
-* strategic documents, Proposal writing and Project management.
+strategic documents, Proposal writing and Project management.
 
 `Field`
-* Establishment of field monitoring tools, deployment of sensors/ stations.
+Establishment of field monitoring tools, deployment of sensors/ stations.
 
-* Scientific expedition planning and leadership.
+Scientific expedition planning and leadership.
 
-* Impact of climate change in mountain regions and implications for development activities/ communities.
+Impact of climate change in mountain regions and implications for development activities/ communities.
 
 `Training`
-* Development of project specific modelling tools.
+Development of project specific modelling tools.
 
-* Workshops and lectures.
+Workshops and lectures.
 
-* Field training in glacio-hydrological methods.
+Field training in glacio-hydrological methods.
 
 
 ## Technical skills
