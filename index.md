@@ -23,7 +23,7 @@ I am a geoscientist with over 15 years of interdisciplinary experience working a
 ## Education
 
 `2009-13`
-__University of Zurich__ PhD Geoscience. Thesis: Subgrid Simulation of Land Surface Variables in Heterogeneous and Remote Environments: Application to Mountain Permafrost. <a href="http://www.library.ethz.ch/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=ebi01_prod010407703&indx=7&recIds=ebi01_prod010407703&recIdxs=6&elementId=6&renderMode=poppedOut&displayMode=full&frbrVersion=2&vid=DADS&&tab=default_tab&dscnt=0&vl(freeText0)=fiddes&dstmp=1487752542274">ETH library</a>.
+__University of Zurich__ PhD Geoscience. Thesis: Subgrid Simulation of Land Surface Variables in Heterogeneous and Remote Environments: Application to Mountain Permafrost. <a href="https://www.zora.uzh.ch/id/eprint/105313/">Online pdf</a>.
 
 `2006-07`
 __University of Edinburgh__ MSc Environment & development. Thesis: Impact of climate change on snow-based water resources in Afghanistan.
@@ -216,7 +216,7 @@ Matthias Keller, Guido Hungerbuehler, Oliver Knecht, Suhel Sheikh, Jan Beutel, S
 
 `2021`
 Bellprat, O., Spirig, C., Flubacher, M., Grandjean, J., Roulet, Y.-A., Moret, L., Bavay, M., **Fiddes, J.**, Orlowsky, B., Kassam, S., Kalandarov, H., Yatimov, S., Akmal, A., Strohmeier, S. M., Sharma, R., Haddad, M., Govind, A., Fatih, K., and Berod, D.: A low-cost approach to develop Weather, Water and Climate Services (WWCS) in rural areas of Tajikistan, EMS Annual Meeting 2022, Bonn, Germany, 5–9 Sep 2022, EMS2022-476, https://doi.org/10.5194/ems2022-476, 2022.
-`2021`
+
 Allen, S., H. Frey, and **J. Fiddes**, 2021: Assessment of Contributing Factors of the May 2021 Disasters in Tajikistan : A Forensic Study Under the Strengthening Critical Infrastructure Against Natural Hazards Project.
 
 `2019`
