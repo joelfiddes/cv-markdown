@@ -1,7 +1,3 @@
----
-layout: cv
-title: Joel Fiddes CV
----
 # Dr Joel Fiddes
 Geoscientist
 
@@ -42,16 +38,16 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 `2022`
 __World Meteorological Organistation__ _Consultant_ Analysis and inventory of existing mountain observation and data sources related to snow, glaciers, permafrost, discharge, and ancillary data in Central Asia (Afghanistan, Tajikistan, Kyrgyzstan, Uzbekistan and Kazakhstan)
 
-`2021-2023`
+`2021-23`
 __FutureWater__ _Consultant_ Developing a Glacio-Hydrological Model and IWRM Plan for a Selected Sub-basin in the Central Himalayas, Uttarakhand, India financed by the Swiss Agency Development Cooperation (www.futurewater.eu).
 
-`2021-`
+`2021`
 __World Bank__ _Consultant_ Assessment Of Contributing Factors Of The May 2021 Disasters In Tajikistan. A forensic study under the Strengthening Critical Infrastructure against Natural Hazards Project (SCINHP, P158298)
 
-`2018-`
+`2018-25`
 __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia CROMO-ADAPT (2021-2025) and WWCS together with CARITAS CH (2020-2024). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. Member of the Swiss Polar Institute flagship project "PAMIR".
 
-`2020-2021`
+`2020-21`
 __Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models. Tools for automated retrieval and analysis of remote sensing datsets to estimate deforestation rates.
 
 `2018-20`
@@ -165,7 +161,12 @@ Field training in glacio-hydrological methods.
 ## Publications
 
 ### Peer reviewed
+
 `2022`
+Alonso-González, E., Aalstad, K., Baba, M. W., Revuelto, J., López-Moreno, J. I., **Fiddes, J.**, Essery, R., and Gascoin, S.: MuSA: The Multiscale Snow Data Assimilation System (v1.0), Geosci. Model Dev. Discuss. [preprint], https://doi.org/10.5194/gmd-2022-137, in review, 2022.
+
+Martin, L. C. P., Westermann, S., Magni, M., Brun, F., **Fiddes, J**., Lei, Y., Kraaijenbrink, P., Mathys, T., Langer, M., Allen, S., and Immerzeel, W. W.: Recent ground thermo-hydrological changes in a Tibetan endorheic catchment and implications for lake level changes, Hydrol. Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/hess-2022-241, in review, 2022.
+
 **Fiddes, J**., K. Aalstad, and M. Lehning, 2022: TopoCLIM: rapid topography-based downscaling of regional climate model output in complex terrain v1.1. Geosci. Model Dev., 15, 1753–1768.
 
 Kronenberg, M., W. van Pelt, H. Machguth, **J. Fiddes**, M. Hoelzle, and F. Pertziger, 2022: Long-term firn and mass balance modelling for Abramov glacier, Pamir Alay. The Cryosphere Discussions, 1–33.
@@ -212,8 +213,11 @@ Matthias Keller, Guido Hungerbuehler, Oliver Knecht, Suhel Sheikh, Jan Beutel, S
 
 
 ### Non-peer reviewed
+
 `2021`
-Allen, S., H. Playford Frey, and J. Fiddes, 2021: Assessment of Contributing Factors of the May 2021 Disasters in Tajikistan : A Forensic Study Under the Strengthening Critical Infrastructure Against Natural Hazards Project.
+Bellprat, O., Spirig, C., Flubacher, M., Grandjean, J., Roulet, Y.-A., Moret, L., Bavay, M., **Fiddes, J.**, Orlowsky, B., Kassam, S., Kalandarov, H., Yatimov, S., Akmal, A., Strohmeier, S. M., Sharma, R., Haddad, M., Govind, A., Fatih, K., and Berod, D.: A low-cost approach to develop Weather, Water and Climate Services (WWCS) in rural areas of Tajikistan, EMS Annual Meeting 2022, Bonn, Germany, 5–9 Sep 2022, EMS2022-476, https://doi.org/10.5194/ems2022-476, 2022.
+`2021`
+Allen, S., H. Frey, and **J. Fiddes**, 2021: Assessment of Contributing Factors of the May 2021 Disasters in Tajikistan : A Forensic Study Under the Strengthening Critical Infrastructure Against Natural Hazards Project.
 
 `2019`
 Muccione, V, and **Fiddes, J.** “State of the Knowledge on Water Resources and Natural Hazards under Climate Change in Central Asia and South Caucasus.” Managing Disaster Risks and Water under Climate Change. 2019.  <a href="https://reliefweb.int/report/world/managing-disaster-risks-and-water-under-climate-change-central-asia-and-caucasus">reliefweb</a>

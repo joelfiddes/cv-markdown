@@ -19,6 +19,6 @@ cd ~/src/jekyll/joelfiddes.github.io
 ./gpush.sh # quick commit of website
 
 # make pdf
-TIME = date
-wkhtmltopdf https://joelfiddes.github.io/cv/ /home/joel/src/jekyll/cv-markdown/JoelFiddesCV_$TIME.pdf
+date=$(date +%Y-%m-%d)
+wkhtmltopdf https://joelfiddes.github.io/cv/ /home/joel/src/jekyll/cv-markdown/JoelFiddesCV_$date.pdf
 
