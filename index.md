@@ -120,11 +120,9 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 
 ## Core competences
 `Tech`
-Hydro-meteorological climate service development and delivery
-
-Data systems, data sharing from technology to politics
-
-Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
+* Hydro-meteorological climate service development and delivery
+* Data systems, data sharing from technology to politics of data
+* Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
 
 Environmental analysis using climate data and other large datasets.
 
@@ -290,7 +288,7 @@ Prince of Wales Student Scholarship (Tuition fees)
 * Geoscientific Model Development
 * Remote Sensing
 * Journal of Climatology
-* Geograhpica Helvetica
+* Geographica Helvetica
 * Environmental Earth Sciences
 * Annals of Glaciology
 * Journal of Geophysical Research
