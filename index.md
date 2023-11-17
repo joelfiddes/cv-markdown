@@ -16,9 +16,9 @@ Geoscientist
 
 ## Currently
 
-I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organistations, government institutions and donor projects. My main interest is in the quantification of high mountain processes related to water resources and natural hazards, to better understand and mitigate impacts upon downstream communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. Increasingly I am working with government institutions to support updating of hydrometerological forecasting procedures, particularly with respect to the cryosphere. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
+I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organisations, government institutions and donor projects. My main interest is in the quantification of high mountain processes related to water resources and natural hazards, to better understand and mitigate impacts upon downstream communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. Increasingly I am working with government institutions to support updating of hydro-meteorological forecasting procedures, particularly with respect to the cryosphere. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
 
-<!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modeliing and in situ data to make robust predictions in various environmental domains.  -->
+<!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modelling and in situ data to make robust predictions in various environmental domains.  -->
 <!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> 
 ## Education
 
@@ -41,7 +41,7 @@ __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Inve
 
 
 `2022`
-__World Meteorological Organistation__ _Consultant_ Analysis and inventory of existing mountain observation and data sources related to snow, glaciers, permafrost, discharge, and ancillary data in Central Asia (Afghanistan, Tajikistan, Kyrgyzstan, Uzbekistan and Kazakhstan)
+__World Meteorological Organization _Consultant_ Analysis and inventory of existing mountain observation and data sources related to snow, glaciers, permafrost, discharge, and ancillary data in Central Asia (Afghanistan, Tajikistan, Kyrgyzstan, Uzbekistan and Kazakhstan)
 
 `2021-23`
 __FutureWater__ _Consultant_ Developing a Glacio-Hydrological Model and IWRM Plan for a Selected Sub-basin in the Central Himalayas, Uttarakhand, India financed by the Swiss Agency Development Cooperation (www.futurewater.eu).
@@ -60,10 +60,10 @@ __Landell Mills Ltd__ _Consultant_ <a href="https://joelfiddes.github.io/tajsnow
 __University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area snowpack simulations in mountain regions.
 
 `2017-18`
-__World Meteorological Organistation__ _Consultant_ for the <a href="https://joelfiddes.github.io/wmo_gcw/">WMO programme Global Cryosphere Watch</a>. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
+__World Meteorological Organization _Consultant_ for the <a href="https://joelfiddes.github.io/wmo_gcw/">WMO programme Global Cryosphere Watch</a>. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
 
 `2014-17`
-__WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institue in Switzerland for both hydrology and natural hazard assesments.
+__WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institute in Switzerland for both hydrology and natural hazard assessments.
 
 `2016`
 __Himalaya Permafrost ETH SEED__ _Scientist_ Establishment of high altitude permafrost monitoring sites Langtang, Nepal. Training young Nepalese scientists. International permafrost and data tools workshop with participants from Afghanistan, India and Nepal. 
@@ -75,13 +75,13 @@ __University of Zurich__ _Scientist_. Managing PERMOS network of ground and rock
 __University of Zurich__ _Scientist_. Swiss Development Cooperation/DEZA funded climate change adaptation programme (www.ihcap.in). Developing baseline maps for key land surface variables in the Indian Himalaya with direct coordination with several Indian Government agencies (lead Department of Science & Technology). 
 
 `2012`
-__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin.
+_Afghanistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Sar-i-Pul River Basin.
 
 `2011`
 __GIZ/ Hydroc__ _Consultant_. Disaster risk management project in Badahkshan, Afghanistan for GIZ. Component avalanche hazard risk zones.
 
 `2011`
-__Afganistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin.
+__Afghanistan Research Evaluation Unit__ _Consultant_. Remote sensing analysis of water availability in irrigated zones in Panj Amu River Basin.
 
 `2010-11`
 __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (P-ARBP) in north-east Afghanistan  developed a strategy together with a range of tools to improve water resource management. Training the first government team in snow sampling techniques (training course Wakhan Corridor). Establishment of high altitude field sites.
@@ -90,7 +90,7 @@ __Landell Mills Ltd.__ _Consultant_. As part of Panj-Amu River Basin Programme (
 __Agha Khan Foundation__ _Consultant_. Project "PMIS": Remote sensing analysis of irrigated zones in Baghlan NE AFghanistan. GIS & Remote Sensing – Applications in Social Water Management.
 
 `2009-13`
-__University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of Msc and BSc. students. Fieldwork in high mountain environments. Large-scale deployment of temperature sensors.
+__University of Zurich__ _Scientific researcher/ PhD Candidate_. National science foundation funded research undertaken to develop and test tools that enable efficient application of numerical models driven by climate datasets in complex terrain. Work resulted in three first author publications. Oral and poster presentations at several international conferences. Supervision of MSc. and BSc. students. Fieldwork in high mountain environments. Large-scale deployment of temperature sensors.
 
 `2009`
 __Agha Khan Foundation__ _Consultant_. Training in GIS systems and geospatial survey for AKF project engineers in Puli Khumri NE Afghanistan. 
@@ -107,20 +107,20 @@ __Welt Hunger Hilfe__ _Consultant_. Upper catchment protection project "PEEP": t
 __Concern Worldwide/ Welt Hunger Hilfe__ _Consultant_. Social water management and upper catchment protection projects "SWIM/SMILE": Established GIS systems and conducted training in geospatial surveys for project staff. Surveying of irrigation channels and infrastructure.
 
 `2008`
-__Concern Worldwide__ _Consultant_. Market analysis for natural resorce based products in Takhar NE Afghanistan.
+__Concern Worldwide__ _Consultant_. Market analysis for natural resource based products in Takhar NE Afghanistan.
 
 `2007`
 __Landell Mills Ltd.__ _Consultant_. Environmental screening report for irrigation rehabilitation component of Kunduz River Basin Programme. Additionally provided concept note on methods in snow and ice monitoring.
 
 `2007`
-__Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan. Collaboration with the Landell Mills led European Commision Kunduz River Basin Programme.
+__Mercy Corps__ _Researcher_. Author of a policy document for global humanitarian agency Mercy Corps. Construction and analysis of a 30 year satellite data record to assess possible changes in snowcover area (SCA) over this period and implications for water resources of Northern Afghanistan. Collaboration with the Landell Mills led European Commission Kunduz River Basin Programme.
 
 `1999-04`
 __Formative research expeditions__ Gulf apex predator prey project (_University Alaska Fairbanks, Alaska, 2004_). Subsistence hunting study (_University of Aberdeen/ Royal Geographical Society, Peruvian Amazon, 2003_), Coral reef biodiversity monitoring (_Greenforce/ University of Malaysia, Borneo, 2001_), Tian Shan biodiversity study (_BSES/CEH, Kyrgyzstan, 1999_).
 
 ## Core competences
 `Tech`
-Hydrometeorological climate service development and delivery
+Hydro-meteorological climate service development and delivery
 
 Data systems, data sharing from technology to politics
 
