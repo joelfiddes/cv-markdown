@@ -1,5 +1,5 @@
 # Dr Joel Fiddes
-Mountain science | consultant
+Mountain science | Consultant
 
 <div id="webaddress">
 
