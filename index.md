@@ -122,7 +122,7 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 `Tech`
 Hydro-meteorological climate service development and delivery.
 
-Data systems, data sharing from technology to politics of data.
+Data systems, data sharing from technology to politics of data./
 
 Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
 
@@ -170,9 +170,10 @@ Field training in glacio-hydrological methods.
 
 ### Peer reviewed
 
-`2023`
-González-Herrero, S., Sigmund, A., Haugeneder, M., Hames, O., Huwald, H., **Fiddes, J.**, Lehning, M. (In review.) “Using the sensible heat flux eddy covariance-based exchange coefficient to calculate latent heat from moisture mean gradients on snow.“ Boundary Layer Meteorology.
+`2024`
+González-Herrero, S., Sigmund, A., Haugeneder, M., Hames, O., Huwald, H., **Fiddes, J.**, Lehning, M. (2024) “Using the sensible heat flux eddy covariance-based exchange coefficient to calculate latent heat from moisture mean gradients on snow.“ Boundary Layer Meteorology.
 
+`2023`
 Filhol, Simon, **Fiddes, J**, and Aalstad, K. 2023. “TopoPyScale: A Python Package for Hillslope Climate Downscaling.” Journal of Open Source Software 8 (86): 5059.
 
 `2022`
