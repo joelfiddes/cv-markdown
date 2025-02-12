@@ -1,5 +1,5 @@
 # Dr Joel Fiddes
-Mountain science | Consultant
+Mountain Research | Consultant
 
 <div id="webaddress">
 
@@ -120,31 +120,31 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 
 ## Core competences
 `Tech`
-Hydro-meteorological climate service development and delivery.
+* Hydro-meteorological climate service development and delivery.
 
-Data systems, data sharing from technology to politics of data./
+* Data systems, data sharing from technology to politics of data.
 
-Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
+* Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
 
-Environmental analysis using climate data and other large datasets.
+* Environmental analysis using climate data and other large datasets.
 
-Remote sensing services, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
+* Remote sensing services, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
 
-strategic documents, Proposal writing and Project management.
+* Strategic documents, proposal writing and project management.
 
 `Field`
-Establishment of field monitoring tools, deployment of sensors/ stations.
+* Establishment of field monitoring tools, deployment of sensors/ stations.
 
-Scientific expedition planning and leadership.
+* Scientific expedition planning and leadership.
 
-Impact of climate change in mountain regions and implications for development activities/ communities.
+* Automatic weather station programming /maintainence.
 
 `Training`
-Development of project specific modelling tools.
+* Development of project specific modelling tools.
 
-Workshops and lectures.
+* Workshops and lectures.
 
-Field training in glacio-hydrological methods.
+* Field training in glacio-hydrological methods.
 
 
 ## Technical skills
