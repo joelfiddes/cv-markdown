@@ -1,5 +1,5 @@
 # Dr Joel Fiddes
-Geoscientist
+Mountain Research | Consultant
 
 <div id="webaddress">
 
@@ -16,7 +16,7 @@ Geoscientist
 
 ## Currently
 
-I am a geoscientist with over 15 years of interdisciplinary experience working across research institutions, international organisations, government institutions and donor projects. My main interest is in the quantification of high mountain processes related to water resources and natural hazards, to better understand and mitigate impacts upon downstream communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. Increasingly I am working with government institutions to support updating of hydro-meteorological forecasting procedures, particularly with respect to the cryosphere. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
+I am a research scientist and consultant with over 15 years of interdisciplinary experience working across research institutions, international organisations, government institutions and donor projects. My main interest is in the quantification of high mountain processes related to water resources and natural hazards, to better understand and mitigate impacts upon downstream communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. Increasingly I am working with government institutions to support updating of hydro-meteorological forecasting procedures, particularly with respect to the cryosphere. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
 
 <!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modelling and in situ data to make robust predictions in various environmental domains.  -->
 <!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> 
@@ -35,13 +35,13 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 ## Employment & Projects
 
 
-`Current`
-`Current`
-__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia <a href="https://www.eda.admin.ch/deza/de/home/themen/wasser.html/content/dezaprojects/SDC/en/2019/7F10279/phase1?oldPagePath=/content/deza/de/home/themen/wasser.html">"Cryosphere Observations and Modelling for Improved Adaptation in Central Asia"</a> (CROMO-ADAPT  2021-2025) and <a href="https://www.caritas.ch/en/what-we-do/worldwide/climate/tajikistan-weather-data-helps-farmers-to-improve-their-productivity.html">"Water, Weather and Climate Services"</a> with CARITAS CH (WWCS 2021-2025). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. I am a Member of the Swiss Polar Institute flagship project <a href="https://pamir-project.ch/">"PAMIR"</a> and contribute to data sharing projects of the WMO such as <a href="https://public.wmo.int/en/our-mandate/focus-areas/cryosphere/GCW">"Global Cryosphere Watch"</a>
+`current`
+`current`
+__WSL Institute for Snow and Avalanche Research SLF (since 2018)__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia <a href="https://www.eda.admin.ch/deza/de/home/themen/wasser.html/content/dezaprojects/SDC/en/2019/7F10279/phase1?oldPagePath=/content/deza/de/home/themen/wasser.html">"Cryosphere Observations and Modelling for Improved Adaptation in Central Asia"</a> (CROMO-ADAPT  2021-2025) and <a href="https://www.caritas.ch/en/what-we-do/worldwide/climate/tajikistan-weather-data-helps-farmers-to-improve-their-productivity.html">"Water, Weather and Climate Services"</a> with CARITAS CH (WWCS 2021-2025). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. I am a Member of the Swiss Polar Institute flagship project <a href="https://pamir-project.ch/">"PAMIR"</a> and contribute to data sharing projects of the WMO such as <a href="https://public.wmo.int/en/our-mandate/focus-areas/cryosphere/GCW">"Global Cryosphere Watch"</a>
 
 
 `2022`
-__World Meteorological Organization _Consultant_ Analysis and inventory of existing mountain observation and data sources related to snow, glaciers, permafrost, discharge, and ancillary data in Central Asia (Afghanistan, Tajikistan, Kyrgyzstan, Uzbekistan and Kazakhstan)
+__World Meteorological Organization__ _Consultant_ Analysis and inventory of existing mountain observation and data sources related to snow, glaciers, permafrost, discharge, and ancillary data in Central Asia (Afghanistan, Tajikistan, Kyrgyzstan, Uzbekistan and Kazakhstan)
 
 `2021-23`
 __FutureWater__ _Consultant_ Developing a Glacio-Hydrological Model and IWRM Plan for a Selected Sub-basin in the Central Himalayas, Uttarakhand, India financed by the Swiss Agency Development Cooperation (www.futurewater.eu).
@@ -60,7 +60,7 @@ __Landell Mills Ltd__ _Consultant_ <a href="https://joelfiddes.github.io/tajsnow
 __University of Oslo__ _Scientist_ Swiss National Science Foundation research scholar. Developing data assimilation and uncertainty framework for large area snowpack simulations in mountain regions.
 
 `2017-18`
-__World Meteorological Organization _Consultant_ for the <a href="https://joelfiddes.github.io/wmo_gcw/">WMO programme Global Cryosphere Watch</a>. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
+__World Meteorological Organization__ _Consultant_ for the <a href="https://joelfiddes.github.io/wmo_gcw/">WMO programme Global Cryosphere Watch</a>. Developing a global solution for interoperability of CryoNet monitoring stations and GCW dataportal.
 
 `2014-17`
 __WSL Institute for Snow and Avalanche Research SLF__ _Data scientist_. Developing and managing data systems for the SwissEx/ OSPER project a large interdisciplinary environmental data acquisition and management project with multiple ETH domain partners. The WSL/ SLF is a leading federal institute in Switzerland for both hydrology and natural hazard assessments.
@@ -120,31 +120,31 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 
 ## Core competences
 `Tech`
-Hydro-meteorological climate service development and delivery
+* Hydro-meteorological climate service development and delivery.
 
-Data systems, data sharing from technology to politics
+* Data systems, data sharing from technology to politics of data.
 
-Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
+* Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
 
-Environmental analysis using climate data and other large datasets.
+* Environmental analysis using climate data and other large datasets.
 
-Remote sensing services, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
+* Remote sensing services, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
 
-strategic documents, Proposal writing and Project management.
+* Strategic documents, proposal writing and project management.
 
 `Field`
-Establishment of field monitoring tools, deployment of sensors/ stations.
+* Establishment of field monitoring tools, deployment of sensors/ stations.
 
-Scientific expedition planning and leadership.
+* Scientific expedition planning and leadership.
 
-Impact of climate change in mountain regions and implications for development activities/ communities.
+* Automatic weather station programming /maintainence.
 
 `Training`
-Development of project specific modelling tools.
+* Development of project specific modelling tools.
 
-Workshops and lectures.
+* Workshops and lectures.
 
-Field training in glacio-hydrological methods.
+* Field training in glacio-hydrological methods.
 
 
 ## Technical skills
@@ -170,26 +170,32 @@ Field training in glacio-hydrological methods.
 
 ### Peer reviewed
 
-`2022`
-Alonso-González, E., Aalstad, K., Baba, M. W., Revuelto, J., López-Moreno, J. I., **Fiddes, J.**, Essery, R., and Gascoin, S.: MuSA: The Multiscale Snow Data Assimilation System (v1.0), Geosci. Model Dev. Discuss. [preprint], https://doi.org/10.5194/gmd-2022-137, in review, 2022.
+`2024`
+González-Herrero, S., Sigmund, A., Haugeneder, M., Hames, O., Huwald, H., **Fiddes, J.**, Lehning, M. (2024) “Using the sensible heat flux eddy covariance-based exchange coefficient to calculate latent heat from moisture mean gradients on snow.“ Boundary Layer Meteorology.
 
-Martin, L. C. P., Westermann, S., Magni, M., Brun, F., **Fiddes, J**., Lei, Y., Kraaijenbrink, P., Mathys, T., Langer, M., Allen, S., and Immerzeel, W. W.: Recent ground thermo-hydrological changes in a Tibetan endorheic catchment and implications for lake level changes, Hydrol. Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/hess-2022-241, in review, 2022.
+`2023`
+Filhol, Simon, **Fiddes, J**, and Aalstad, K. 2023. “TopoPyScale: A Python Package for Hillslope Climate Downscaling.” Journal of Open Source Software 8 (86): 5059.
+
+`2022`
+Alonso-González, Esteban, Kristoffer Aalstad, Mohamed Wassim Baba, Jesús Revuelto, Juan Ignacio López-Moreno, Joel **Fiddes**, Richard Essery, and Simon Gascoin. 2022. “The Multiple Snow Data Assimilation System (MuSA v1.0).” Geoscientific Model Development 15 (24): 9127–55.
+
+Martin, L. C. P., Westermann, S., Magni, M., Brun, F., **Fiddes, J**., Lei, Y., Kraaijenbrink, P., Mathys, T., Langer, M., Allen, S., and Immerzeel, W. W.: Recent ground thermo-hydrological changes in a Tibetan endorheic catchment and implications for lake level changes, Hydrol. Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/hess-2022-241, in press, 2022.
 
 **Fiddes, J**., K. Aalstad, and M. Lehning, 2022: TopoCLIM: rapid topography-based downscaling of regional climate model output in complex terrain v1.1. Geosci. Model Dev., 15, 1753–1768.
 
-Kronenberg, M., W. van Pelt, H. Machguth, **J. Fiddes**, M. Hoelzle, and F. Pertziger, 2022: Long-term firn and mass balance modelling for Abramov glacier, Pamir Alay. The Cryosphere Discussions, 1–33.
+Kronenberg, Marlene, Ward van Pelt, Horst Machguth, Joel **Fiddes**, Martin Hoelzle, and Felix Pertziger. 2022. “Long-Term Firn and Mass Balance Modelling for Abramov Glacier in the Data-Scarce Pamir Alay.” The Cryosphere 16 (12): 5001–22..
 
-Kruyt, B., R. Mott, **J. Fiddes**, F. Gerber, V. Sharma, and D. Reynolds, 2022: A Downscaling Intercomparison Study: The Representation of Slope-and Ridge-Scale Processes in Models of Different Complexity. Front Earth Sci. Chin., 10, 789332.
+Kruyt, B., R. Mott, **J. Fiddes**, F. Gerber, V. Sharma, and D. Reynolds, 2022: A Downscaling Intercomparison Study: The Representation of Slope-and Ridge-Scale Processes in Models of Different Complexity. Front Earth Sci., 10, 789332.
 
 `2021`
 Shugar, D. H., **et al.** "A massive rock and ice avalanche caused the 2021 disaster at Chamoli, Indian Himalaya." Science (New York, NY) 373.6552 (2021): 300-306.
 
 `2020`
-Barandun, Martina, **Joel Fiddes**, Martin Scherler, Tamara Mathys, Tomas Saks, Dmitry Petrakov, and Martin Hoelzle. 2020. “The State and Future of the Cryosphere in Central Asia.” Water Security 11 (December): 100072.
+Barandun, Martina, Joel **Fiddes**, Martin Scherler, Tamara Mathys, Tomas Saks, Dmitry Petrakov, and Martin Hoelzle. 2020. “The State and Future of the Cryosphere in Central Asia.” Water Security 11 (December): 100072.
 
 Bavay, M., **Fiddes, J.** and Godøy, Ø., 2020. Automatic Data Standardization for the Global Cryosphere Watch Data Portal. Data Science Journal, 19(1), p.6. DOI: <a href="http://doi.org/10.5334/dsj-2020-006">10.5334/dsj-2020-006</a>
 
-Bender, E.,  Lehning, M., & **Fiddes, J.** 2020. Changes in climatology, snow cover and ground temperatures at high alpine locations, Front. Earth Sci. _In press._
+Bender, Esther, Michael Lehning, and Joel **Fiddes**. 2020. “Changes in Climatology, Snow Cover, and Ground Temperatures at High Alpine Locations.” Frontiers in Earth Science 8: 100.
 
 Philipson, Christopher D., Mark E. J. Cutler, Philip G. Brodrick, Gregory P. Asner, Doreen S. Boyd, Pedro Moura Costa, **Joel Fiddes**, et al. 2020. “Active Restoration Accelerates the Carbon Recovery of Human-Modified Tropical Forests.” Science 369 (6505): 838–41.
 
@@ -275,6 +281,7 @@ Data and monitoring tools for improved water resource management in Afghanistan.
 Prince of Wales Student Scholarship (Tuition fees)
 
 ## Professional memberships
+
 * International Association of Cryospheric Sciences
 * European Geosciences Union
 
@@ -284,7 +291,7 @@ Prince of Wales Student Scholarship (Tuition fees)
 * Geoscientific Model Development
 * Remote Sensing
 * Journal of Climatology
-* Geograhpica Helvetica
+* Geographica Helvetica
 * Environmental Earth Sciences
 * Annals of Glaciology
 * Journal of Geophysical Research
