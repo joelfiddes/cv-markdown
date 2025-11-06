@@ -287,49 +287,41 @@ Data and monitoring tools for improved water resource management in Afghanistan.
 
 ## Professional memberships
 
-<ul style="columns: 3; -webkit-columns: 3; -moz-columns: 3; column-gap: 2em; position: relative; left: 25%; width: 65%; margin-bottom: 1.5em; margin-top: 1em;">
-<li>International Association of Cryospheric Sciences</li>
-<li>European Geosciences Union</li>
-</ul>
+* International Association of Cryospheric Sciences
+* European Geosciences Union
 
 ## Reviewer for
 
-<ul style="columns: 3; -webkit-columns: 3; -moz-columns: 3; column-gap: 2em; position: relative; left: 25%; width: 65%; margin-bottom: 1.5em; margin-top: 1em;">
-<li>The Cryosphere</li>
-<li>Geoscientific Model Development</li>
-<li>Remote Sensing</li>
-<li>Journal of Climatology</li>
-<li>Geographica Helvetica</li>
-<li>Environmental Earth Sciences</li>
-<li>Annals of Glaciology</li>
-<li>Journal of Geophysical Research</li>
-</ul>
+* The Cryosphere
+* Geoscientific Model Development
+* Remote Sensing
+* Journal of Climatology
+* Geographica Helvetica
+* Environmental Earth Sciences
+* Annals of Glaciology
+* Journal of Geophysical Research
 
 ## Languages
 
-<ul style="columns: 3; -webkit-columns: 3; -moz-columns: 3; column-gap: 2em; position: relative; left: 25%; width: 65%; margin-bottom: 1.5em; margin-top: 1em;">
-<li>English (_Mother tongue_)</li>
-<li>German (_Intermediate_)</li>
-<li>Romansh (_Basic_)</li>
-<li>Dari (_Basic_)</li>
-</ul>
+* English (_Mother tongue_)
+* German (_Intermediate_)
+* Romansh (_Basic_)
+* Dari (_Basic_)
 
 ## Country experience
 
-<ul style="columns: 3; -webkit-columns: 3; -moz-columns: 3; column-gap: 2em; position: relative; left: 25%; width: 65%; margin-bottom: 1.5em; margin-top: 1em;">
-<li>Afghanistan</li>
-<li>Borneo</li>
-<li>Kazahkstan</li>
-<li>Kyrgyzstan</li>
-<li>India</li>
-<li>Nepal</li>
-<li>Norway</li>
-<li>Pakistan</li>
-<li>Peru</li>
-<li>Switzerland</li>
-<li>Tajikistan</li>
-<li>Uzbekistan</li>
-</ul>
+* Afghanistan
+* Borneo
+* Kazahkstan
+* Kyrgyzstan
+* India
+* Nepal
+* Norway
+* Pakistan
+* Peru
+* Switzerland
+* Tajikistan
+* Uzbekistan
 
 
 
