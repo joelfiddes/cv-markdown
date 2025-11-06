@@ -89,25 +89,14 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 1em;
+	list-style: square;
 }
-
-/* Apply columns to ul elements that come after Professional memberships section */
-h2#professional-memberships ~ ul,
-h2#professional-memberships ~ h2 ~ ul {
-  column-count: 3;
-  -webkit-column-count: 3;
-  -moz-column-count: 3;
-  column-fill: auto;
-  -webkit-column-fill: auto;
-  -moz-column-fill: auto;
-  column-gap: 1em;
-  -webkit-column-gap: 1em;
-  -moz-column-gap: 1em;
-}
-
 
 li {
-	/* empty */
+	/* Grid items automatically flow into columns */
 }
 
 li ul {
