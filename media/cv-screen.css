@@ -168,19 +168,11 @@ a:hover {
 
 #webaddress {
 	margin-top: 0em;
-	position: absolute;
-  left: 1em !important;
-  margin-left: 0 !important;
+	position: relative;
+  margin-left: 25%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
-}
-
-#webaddress p {
-	position: static !important;
-	left: 0 !important;
-	margin-left: 0 !important;
-	width: 100% !important;
 }
 
 #webaddress a {
