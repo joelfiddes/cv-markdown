@@ -2,7 +2,7 @@
 
 A Jekyll-based academic CV generator that converts markdown CVs to HTML and publishes to GitHub Pages with automatic PDF generation.
 
-> **✨ Auto-publishing enabled**: PDF generation and publishing happens automatically after every commit via Git hooks.
+> **✨ Auto-publishing enabled**: PDF generation and publishing happens automatically after every commit via Git hooks. Last tested: $(date).
 
 ## 🎯 Overview
 
