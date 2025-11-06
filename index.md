@@ -1,4 +1,4 @@
-# Dr Joel Fiddes
+# Joel Fiddes
 Mountain Research | Consultant
 
 <div id="webaddress">
