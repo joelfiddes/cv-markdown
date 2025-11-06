@@ -284,6 +284,7 @@ TopoSAT: High resolution surface modelling of the Himalayan cryosphere with sate
 `2015`
 Data and monitoring tools for improved water resource management in Afghanistan. SEED Grant (_10K CHF_)
 
+<div class="multicolumn">
 
 ## Professional memberships
 
@@ -322,6 +323,8 @@ Data and monitoring tools for improved water resource management in Afghanistan.
 * Switzerland
 * Tajikistan
 * Uzbekistan
+
+</div>
 
 
 
