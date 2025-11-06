@@ -175,6 +175,13 @@ a:hover {
 	font-size: 80%;
 }
 
+#webaddress p {
+	position: static;
+	left: 0;
+	margin-left: 0;
+	width: 100%;
+}
+
 #webaddress a {
 	text-decoration: none;
 }
