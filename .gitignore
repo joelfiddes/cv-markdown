@@ -39,3 +39,7 @@ vendor/
 # Temporary files
 *.tmp
 *.bak
+
+# Generated PDFs
+latest.pdf
+JoelFiddesCV_*.pdf

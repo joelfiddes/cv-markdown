@@ -38,17 +38,16 @@ git push
 # Step 5: Generate PDF
 echo "📄 Generating PDF..."
 cd /Users/joel/src/jekyll/cv-markdown
-date=$(date +%Y-%m-%d)
 sleep 10  # Wait for website to update
 
 "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
   --headless --disable-gpu \
-  --print-to-pdf=JoelFiddesCV_$date.pdf \
+  --print-to-pdf=JoelFiddeslatest.pdf \
   --print-to-pdf-no-header \
   --virtual-time-budget=2000 \
   https://joelfiddes.github.io/cv/
 
 echo "✅ Publication complete!"
-echo "📄 PDF created: JoelFiddesCV_$date.pdf"
+echo "📄 PDF created: latest.pdf"
 echo "🌐 Website: https://joelfiddes.github.io/cv/"
 

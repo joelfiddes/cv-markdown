@@ -40,11 +40,11 @@ cd /Users/joel/src/jekyll/cv-markdown/
 /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome \
     --headless \
     --disable-gpu \
-    --print-to-pdf=JoelFiddesCV_$(date +%Y-%m-%d).pdf \
+    --print-to-pdf=latest.pdf \
     --print-to-pdf-no-header \
     --no-margins \
     https://joelfiddes.github.io/cv/
 
 echo "✅ CV publication completed successfully!"
-echo "📄 PDF: JoelFiddesCV_$(date +%Y-%m-%d).pdf"
+echo "📄 PDF: latest.pdf"
 echo "🌐 Website: https://joelfiddes.github.io/cv/"
