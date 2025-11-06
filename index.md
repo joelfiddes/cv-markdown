@@ -267,7 +267,7 @@ Keller, M., Hungerbuehler, G., Knecht, O., Sheikh, S., Beutel, J., Gubler, S., *
 **Fiddes, J.** (2007). Afghanistan: Implications Of Climate Change For Water Resources In The Kunduz River Basin in Climate Challenges: Bridging the Knowledge Gap.Mercy Corps Climate change unit. <a href="https://www.mercycorps.org/files/file1198714955.pdf">online version</a>
 
 
-## Grants & Awards
+## Selected Grants & Awards
 
 `2022` 
 Cryospheric Observation and Modelling for improved Adaptation in Central Asia (CROMO-ADAPT) (Co-PI) (_1.3Mio CHF_)
@@ -284,8 +284,7 @@ TopoSAT: High resolution surface modelling of the Himalayan cryosphere with sate
 `2015`
 Data and monitoring tools for improved water resource management in Afghanistan. SEED Grant (_10K CHF_)
 
-`2001`
-Prince of Wales Student Scholarship (Tuition fees)
+<div class="footer">
 
 ## Professional memberships
 
@@ -323,6 +322,8 @@ Prince of Wales Student Scholarship (Tuition fees)
 * Switzerland
 * Tajikistan
 * Uzbekistan
+
+</div>
 
 
 
