@@ -89,10 +89,9 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-gap: 1em;
-	list-style: square;
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
 }
 
 li {
