@@ -66,7 +66,7 @@ Always run the appropriate publish script after content changes:
 
 ## External Dependencies
 - Jekyll with kramdown markdown processor
-- `wkhtmltopdf` for PDF generation from live website
+- Chrome headless for PDF generation (better CSS support than wkhtmltopdf)
 - External GitHub Pages repository for hosting
 - Font Awesome and Google Fonts CDNs
 
@@ -74,4 +74,5 @@ Always run the appropriate publish script after content changes:
 - The main `index.md` has no Jekyll front matter (intentional for current workflow)
 - PDF generation depends on live website, so publish sequence matters
 - Two sets of CSS files exist - use `media/` for active styles
-- Hardcoded paths in scripts reference `/home/joel/` - update for different users
+- **Chrome headless required for CSS columns**: wkhtmltopdf doesn't support modern CSS features like `columns: 3`
+- Hardcoded paths in scripts reference `/Users/joel/` - update for different users
