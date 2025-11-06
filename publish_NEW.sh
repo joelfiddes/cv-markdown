@@ -22,7 +22,7 @@ cd ~/src/jekyll/joelfiddes.github.io
 
 # make pdf
 date=$(date +%Y-%m-%d)
-wkhtmltopdf https://joelfiddes.github.io/cv/ /home/joel/src/jekyll/cv-markdown/JoelFiddesCV_$date.pdf
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless --disable-gpu --print-to-pdf=/Users/joel/src/jekyll/cv-markdown/JoelFiddesCV_$date.pdf --print-to-pdf-no-header --virtual-time-budget=2000 https://joelfiddes.github.io/cv/
 
 
 /Users/joel/src/jekyll/cv-markdown/index.md
