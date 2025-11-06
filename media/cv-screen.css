@@ -89,6 +89,11 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
+}
+
+/* Apply columns to ul elements that come after Professional memberships section */
+h2#professional-memberships ~ ul,
+h2#professional-memberships ~ h2 ~ ul {
   column-count: 3;
   -webkit-column-count: 3;
   -moz-column-count: 3;
@@ -118,7 +123,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	/* color: #F07415; */
+	color: #F07415;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
