@@ -21,10 +21,9 @@ _site/
 *.swo
 *~
 
-# PDF files (keep only latest Chrome-generated ones)
-JoelFiddesCV_*.pdf
-!JoelFiddesCV_*_chrome.pdf
-!JoelFiddesCV_*_chrome_optimized.pdf
+# PDF files (ignore all except main CV)
+*.pdf
+!JoelFiddesCV.pdf
 
 # Archive directory
 archive/
@@ -39,11 +38,6 @@ vendor/
 # Temporary files
 *.tmp
 *.bak
-
-# Generated PDFs
-JoelFiddesCV.pdf
-latest.pdf
-JoelFiddesCV_*.pdf
 
 # Temporary files
 temp_cv.md

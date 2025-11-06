@@ -68,6 +68,18 @@ date=$(date +%Y-%m-%d)
   https://joelfiddes.github.io/cv/
 ```
 
+### Alternative PDF generation (Manual browser printing)
+
+**Often achieves better results**: Print the webpage to PDF directly from your browser:
+
+1. Open https://joelfiddes.github.io/cv/ in your browser
+2. Press Cmd+P (Mac) or Ctrl+P (Windows) 
+3. Select "Save as PDF" as destination
+4. Choose appropriate print settings (margins, layout, etc.)
+5. Save the PDF
+
+This method typically produces higher quality output with better CSS rendering, font handling, and layout consistency compared to automated Chrome headless generation.
+
 ## 📝 Content Guidelines
 
 ### CV Structure

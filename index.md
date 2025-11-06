@@ -1,9 +1,9 @@
 # Joel Fiddes
-Mountain Research | Consultant
+mountainfutures GmbH
 
 <div id="webaddress">
 
-<i class="fa fa-envelope"></i> <a href="joelfiddes@gmail.com">joel.fiddes@slf.ch</a>
+<i class="fa fa-envelope"></i> <a href="joel.fiddes@mountainfutures.ch">joel.fiddes@mountainfutures.ch</a>
 |
 <i class="fa fa-github"></i> <a href="https://joelfiddes.github.io">Website</a>
 |
@@ -15,8 +15,8 @@ Mountain Research | Consultant
 </div>
 
 ## Currently
-
-I am a research scientist and consultant with over 15 years of interdisciplinary experience working with research institutions, international organisations, government agencies and donor projects across high mountain Asia. Expert in high mountain surface processes, development of geoscience models and forecasting tools for application in WRM and DRR. Project manager, team lead field campaigns and WMO expert for programme Global Cryosphere Watch. I have recently co-founded the WSL spin-off company mountainfutures GmbH and maintain an affiliation with [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
+Research scientist and consultant with over 15 years of experience across High Mountain Asia, working with research institutions, international organisations, and government agencies. Specialist in mountain surface processes, geoscience model development, and forecasting tools for water resource management and disaster risk reduction. Project manager, field campaign lead, and WMO expert for the Global Cryosphere Watch programme. Co-founder of mountainfutures GmbH and affiliated with the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/)
+ in Davos, Switzerland.
 
 <!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modelling and in situ data to make robust predictions in various environmental domains.  -->
 <!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> 

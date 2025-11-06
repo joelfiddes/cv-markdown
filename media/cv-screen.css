@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: square;
+	list-style: none;
 }
 blockquote, q {
 	quotes: none;
@@ -72,7 +72,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
 }
@@ -80,7 +80,6 @@ code {
 p code {
 	position: absolute;
 	left: -10%;
-	margin-right: 0.5em;
 }
 
 
@@ -95,8 +94,9 @@ ul {
   -moz-columns: 3;
 }
 
+
 li {
-	/* Grid items automatically flow into columns */
+	/* empty */
 }
 
 li ul {
@@ -112,7 +112,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #F07415;
+	color: #555555;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -126,7 +126,7 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	color: 	#37b81a;
+	color: #6B8E23;
 	/*font-style: italic;*/
 	font-size: 110%;
 	line-height: 2em;
@@ -137,7 +137,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	/* color: #a00; */
-	color: 		#37b81a;
+	color: #6B8E23;
 	/*color: #1D49A0; */
 	font-style: bold;
 	margin-top: 2em;
@@ -148,7 +148,7 @@ h2 {
 }
 
 h3 {
-	color: #F07415;
+	color: #555555;
 	font-size: 1em;
 	line-height: 2em;
 	position: relative;
@@ -169,7 +169,7 @@ a:hover {
 #webaddress {
 	margin-top: 0em;
 	position: relative;
-  margin-left: 1em;
+  margin-left: 25%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
@@ -177,13 +177,6 @@ a:hover {
 
 #webaddress a {
 	text-decoration: none;
-}
-
-#webaddress p {
-	position: relative;
-	left: 0;
-	margin-left: 0;
-	width: auto;
 }
 
 em {
@@ -210,37 +203,6 @@ strong {
 		margin-right: 0;
 		width: 65%;
 }
-
-.multicolumn {
-    column-count: 3;
-    -webkit-column-count: 3;
-    -moz-column-count: 3;
-    column-gap: 2em;
-    -webkit-column-gap: 2em;
-    -moz-column-gap: 2em;
-    column-fill: auto;
-    -webkit-column-fill: auto;
-    -moz-column-fill: auto;
-    position: relative;
-    left: 25%;
-    width: 65%;
-    margin-top: 2em;
-}
-
-.multicolumn ul {
-    column-count: 1;
-    -webkit-column-count: 1;
-    -moz-column-count: 1;
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-}
-
-/* 
-#technical {
-
-}
-*/
 
 /*
 @media only screen and (max-width: 480px) {

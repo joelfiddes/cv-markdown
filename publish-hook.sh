@@ -12,7 +12,12 @@ echo "📝 Generating HTML from markdown..."
 current_date=$(date +"%B %Y")
 sed "s/{{DATE_PLACEHOLDER}}/$current_date/g" index.md > temp_cv.md
 
-pandoc --css=media/cv-screen.css -s -f markdown+smart \
+pandoc --css=media/cv-screen.css \
+       --css=media/cv-print.css \
+       --include-in-header=<(echo '<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">') \
+       --include-in-header=<(echo '<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">') \
+       --include-in-header=<(echo '<link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">') \
+       -s -f markdown+smart \
        --metadata pagetitle="Joel Fiddes CV" \
        --to=html5 temp_cv.md \
        -o /Users/joel/src/jekyll/joelfiddes.github.io/cv/index.html
