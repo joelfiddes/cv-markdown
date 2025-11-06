@@ -1,7 +1,7 @@
 cd ~/src/jekyll/cv-markdown/css
 
 #m make htm;
-pandoc --css=cv-screen.css -s -f markdown+smart --metadata  pagetitle="joelfiddesCV" --to=html5 /home/joel/src/jekyll/cv-markdown/index.md -o /home/joel/src/jekyll/joelfiddes.github.io/cv/index.html
+pandoc --css=cv-screen.css -s -f markdown+smart --metadata  pagetitle="joelfiddesCV" --to=html5 /Users/joel/src/jekyll/cv-markdown/index.md -o /Users/joel/src/jekyll/joelfiddes.github.io/cv/index.html
 
 # remove old files from website dir
 #rm -R ../joelfiddes.github.io/cv/*
@@ -25,3 +25,4 @@ date=$(date +%Y-%m-%d)
 wkhtmltopdf https://joelfiddes.github.io/cv/ /home/joel/src/jekyll/cv-markdown/JoelFiddesCV_$date.pdf
 
 
+/Users/joel/src/jekyll/cv-markdown/index.md

@@ -16,7 +16,7 @@ Mountain Research | Consultant
 
 ## Currently
 
-I am a research scientist and consultant with over 15 years of interdisciplinary experience working across research institutions, international organisations, government institutions and donor projects. My main interest is in the quantification of high mountain processes related to water resources and natural hazards, to better understand and mitigate impacts upon downstream communities. I use and develop geoscientific models and other datascience tools in combination with field campaigns to understand these processes and improve mapping and forecasting methods. Increasingly I am working with government institutions to support updating of hydro-meteorological forecasting procedures, particularly with respect to the cryosphere. I am currently working at the [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
+I am a research scientist and consultant with over 15 years of interdisciplinary experience working with research institutions, international organisations, government agencies and donor projects across high mountain Asia. Expert in high mountain surface processes, development of geoscience models and forecasting tools for application in WRM and DRR. Project manager, team lead field campaigns and WMO expert for programme Global Cryosphere Watch. I have recently co-founded the WSL spin-off company mountainfutures GmbH and maintain an affiliation with [WSL Institute for Snow and Avalanche Research](http://www.slf.ch/), based in Davos, Switzerland. 
 
 <!--<-- in the use of datascience tools, remote sensing and environmental modelling to address real-world problems. I am particularly interested in the combination of remote sensing, modelling and in situ data to make robust predictions in various environmental domains.  -->
 <!--My main research interest in cryospheric processes in High Mountain Asia. I have experience in academic and applied sectors. --> 
@@ -36,9 +36,12 @@ __University of Aberdeen__ BSc Tropical Environmental Science. Thesis: Sustainab
 
 
 `current`
-`current`
-__WSL Institute for Snow and Avalanche Research SLF (since 2018)__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia <a href="https://www.eda.admin.ch/deza/de/home/themen/wasser.html/content/dezaprojects/SDC/en/2019/7F10279/phase1?oldPagePath=/content/deza/de/home/themen/wasser.html">"Cryosphere Observations and Modelling for Improved Adaptation in Central Asia"</a> (CROMO-ADAPT  2021-2025) and <a href="https://www.caritas.ch/en/what-we-do/worldwide/climate/tajikistan-weather-data-helps-farmers-to-improve-their-productivity.html">"Water, Weather and Climate Services"</a> with CARITAS CH (WWCS 2021-2025). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. I am a Member of the Swiss Polar Institute flagship project <a href="https://pamir-project.ch/">"PAMIR"</a> and contribute to data sharing projects of the WMO such as <a href="https://public.wmo.int/en/our-mandate/focus-areas/cryosphere/GCW">"Global Cryosphere Watch"</a>
+__mountainfutures GmbH (since 2025)__ _co-founder_. A WSL/SLF spin-off aiming to translate mountain science into impact - advancing global water and risk resilience.
 
+`2018-25`
+__WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia <a href="https://www.eda.admin.ch/deza/de/home/themen/wasser.html/content/dezaprojects/SDC/en/2019/7F10279/phase1?oldPagePath=/content/deza/de/home/themen/wasser.html">"Cryosphere Observations and Modelling for Improved Adaptation in Central Asia"</a> (CROMO-ADAPT  2021-2025) and <a href="https://www.caritas.ch/en/what-we-do/worldwide/climate/tajikistan-weather-data-helps-farmers-to-improve-their-productivity.html">"Water, Weather and Climate Services"</a> with CARITAS CH (WWCS 2021-2025). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. I am a Member of the Swiss Polar Institute flagship project <a href="https://pamir-project.ch/">"PAMIR"</a> and contribute to data sharing projects of the WMO such as <a href="https://public.wmo.int/en/our-mandate/focus-areas/cryosphere/GCW">"Global Cryosphere Watch"</a>
+
+`2024-25`__UNESCO/Global Environment Facility__ _Consultant_ Development of high-resolution climate change impact scenarios on Central Asian snow cover.
 
 `2022`
 __World Meteorological Organization__ _Consultant_ Analysis and inventory of existing mountain observation and data sources related to snow, glaciers, permafrost, discharge, and ancillary data in Central Asia (Afghanistan, Tajikistan, Kyrgyzstan, Uzbekistan and Kazakhstan)
@@ -48,7 +51,6 @@ __FutureWater__ _Consultant_ Developing a Glacio-Hydrological Model and IWRM Pla
 
 `2021`
 __World Bank__ _Consultant_ Assessment Of Contributing Factors Of The May 2021 Disasters In Tajikistan. A forensic study under the Strengthening Critical Infrastructure against Natural Hazards Project (SCINHP, P158298)
-
 
 `2020-21`
 __Permian Global__ _Consultant_. Supporting carbon prospecting projects through remote sensing analysis, code routines for carbon models. Tools for automated retrieval and analysis of remote sensing datsets to estimate deforestation rates.
@@ -120,31 +122,33 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 
 ## Core competences
 `Tech`
-* Hydro-meteorological climate service development and delivery.
+Geoscience model development with focus on mountain environments.
 
-* Data systems, data sharing from technology to politics of data.
+Hydro-meteorological forecasting chains.
 
-* Land-surface glacio-hydrological modelling and model development with focus on mountain environments.
+Climate impact assesment in mountain regions.
 
-* Environmental analysis using climate data and other large datasets.
+Data systems, exchange and management.
 
-* Remote sensing services, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
+Remote sensing, analysis of environmental change, snow cover, drought conditions, cropping patterns etc.
 
-* Strategic documents, proposal writing and project management.
+`Engage`
+Strategic documents, proposal writing and project management.
+
+Stakeholder engagment.
+
+Workshops and lectures.
 
 `Field`
-* Establishment of field monitoring tools, deployment of sensors/ stations.
+Establishment of field monitoring tools, deployment of sensors/ stations.
 
-* Scientific expedition planning and leadership.
+Scientific expedition planning and leadership.
 
-* Automatic weather station programming /maintainence.
+Automatic weather station programming /maintainence.
 
-`Training`
-* Development of project specific modelling tools.
+Field training in glacio-hydrological methods.
 
-* Workshops and lectures.
 
-* Field training in glacio-hydrological methods.
 
 
 ## Technical skills
@@ -166,9 +170,12 @@ __Formative research expeditions__ Gulf apex predator prey project (_University 
 * Bash
 * LaTeX
 
-## Publications
+## Selected Publications
 
 ### Peer reviewed
+
+`2025`
+Pranisha Pokhrel, Jasper Griffioen, Thom A. Bogaard, **Joel Fiddes** and Walter W. Immerzeel (2025) Contemporary hydrology and drought resilience of the Karnali River basin (Nepal) (in prep) 
 
 `2024`
 González-Herrero, S., Sigmund, A., Haugeneder, M., Hames, O., Huwald, H., **Fiddes, J.**, Lehning, M. (2024) “Using the sensible heat flux eddy covariance-based exchange coefficient to calculate latent heat from moisture mean gradients on snow.“ Boundary Layer Meteorology.
@@ -176,14 +183,14 @@ González-Herrero, S., Sigmund, A., Haugeneder, M., Hames, O., Huwald, H., **Fid
 `2023`
 Filhol, Simon, **Fiddes, J**, and Aalstad, K. 2023. “TopoPyScale: A Python Package for Hillslope Climate Downscaling.” Journal of Open Source Software 8 (86): 5059.
 
+Martin, L. C. P., Westermann, S., Magni, M., Brun, F., **Fiddes, J.**, Lei, Y., Kraaijenbrink, P., Mathys, T., Langer, M., Allen, S., and Immerzeel, W. W.: Recent ground thermo-hydrological changes in a southern Tibetan endorheic catchment and implications for lake level changes, Hydrol. Earth Syst. Sci., 27, 4409–4436, https://doi.org/10.5194/hess-27-4409-2023, 2023.
+
 `2022`
 Alonso-González, Esteban, Kristoffer Aalstad, Mohamed Wassim Baba, Jesús Revuelto, Juan Ignacio López-Moreno, Joel **Fiddes**, Richard Essery, and Simon Gascoin. 2022. “The Multiple Snow Data Assimilation System (MuSA v1.0).” Geoscientific Model Development 15 (24): 9127–55.
 
-Martin, L. C. P., Westermann, S., Magni, M., Brun, F., **Fiddes, J**., Lei, Y., Kraaijenbrink, P., Mathys, T., Langer, M., Allen, S., and Immerzeel, W. W.: Recent ground thermo-hydrological changes in a Tibetan endorheic catchment and implications for lake level changes, Hydrol. Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/hess-2022-241, in press, 2022.
-
 **Fiddes, J**., K. Aalstad, and M. Lehning, 2022: TopoCLIM: rapid topography-based downscaling of regional climate model output in complex terrain v1.1. Geosci. Model Dev., 15, 1753–1768.
 
-Kronenberg, Marlene, Ward van Pelt, Horst Machguth, Joel **Fiddes**, Martin Hoelzle, and Felix Pertziger. 2022. “Long-Term Firn and Mass Balance Modelling for Abramov Glacier in the Data-Scarce Pamir Alay.” The Cryosphere 16 (12): 5001–22..
+Kronenberg, Marlene, Ward van Pelt, Horst Machguth, **Joel Fiddes**, Martin Hoelzle, and Felix Pertziger. 2022. “Long-Term Firn and Mass Balance Modelling for Abramov Glacier in the Data-Scarce Pamir Alay.” The Cryosphere 16 (12): 5001–22..
 
 Kruyt, B., R. Mott, **J. Fiddes**, F. Gerber, V. Sharma, and D. Reynolds, 2022: A Downscaling Intercomparison Study: The Representation of Slope-and Ridge-Scale Processes in Models of Different Complexity. Front Earth Sci., 10, 789332.
 
@@ -306,13 +313,17 @@ Prince of Wales Student Scholarship (Tuition fees)
 ## Country experience
 * Afghanistan
 * Borneo
+* Kazahkstan
 * Kyrgyzstan
 * India
 * Nepal
 * Norway
+* Pakistan
 * Peru
 * Switzerland
 * Tajikistan
+* Uzbekistan
+
 
 
 
@@ -325,4 +336,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: February 2017 -->
+Last updated: April 2025 -->
