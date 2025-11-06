@@ -1,0 +1,41 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Editor files
+*.sublime-workspace
+*.sublime-project
+.vscode/
+*.swp
+*.swo
+*~
+
+# PDF files (keep only latest Chrome-generated ones)
+JoelFiddesCV_*.pdf
+!JoelFiddesCV_*_chrome.pdf
+!JoelFiddesCV_*_chrome_optimized.pdf
+
+# Archive directory
+archive/
+
+# Node modules (if using npm)
+node_modules/
+
+# Ruby
+.bundle/
+vendor/
+
+# Temporary files
+*.tmp
+*.bak

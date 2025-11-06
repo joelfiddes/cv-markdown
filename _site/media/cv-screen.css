@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: square;
 }
 blockquote, q {
 	quotes: none;
@@ -89,9 +89,20 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
-  columns: 3;
-  -webkit-columns: 3;
-  -moz-columns: 3;
+}
+
+/* Apply columns to ul elements that come after Professional memberships section */
+h2#professional-memberships ~ ul,
+h2#professional-memberships ~ h2 ~ ul {
+  column-count: 3;
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-fill: auto;
+  -webkit-column-fill: auto;
+  -moz-column-fill: auto;
+  column-gap: 1em;
+  -webkit-column-gap: 1em;
+  -moz-column-gap: 1em;
 }
 
 
@@ -112,7 +123,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #F07415; */
+	color: #F07415;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -204,7 +215,36 @@ strong {
 		width: 65%;
 }
 
-#technical
+.multicolumn {
+    column-count: 3;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-gap: 2em;
+    -webkit-column-gap: 2em;
+    -moz-column-gap: 2em;
+    column-fill: auto;
+    -webkit-column-fill: auto;
+    -moz-column-fill: auto;
+    position: relative;
+    left: 25%;
+    width: 65%;
+    margin-top: 2em;
+}
+
+.multicolumn ul {
+    column-count: 1;
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+/* 
+#technical {
+
+}
+*/
 
 /*
 @media only screen and (max-width: 480px) {
