@@ -42,12 +42,12 @@ sleep 10  # Wait for website to update
 
 "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
   --headless --disable-gpu \
-  --print-to-pdf=JoelFiddeslatest.pdf \
+  --print-to-pdf=JoelFiddesCV.pdf \
   --print-to-pdf-no-header \
   --virtual-time-budget=2000 \
   https://joelfiddes.github.io/cv/
 
 echo "✅ Publication complete!"
-echo "📄 PDF created: latest.pdf"
+echo "📄 PDF created: JoelFiddesCV.pdf"
 echo "🌐 Website: https://joelfiddes.github.io/cv/"
 

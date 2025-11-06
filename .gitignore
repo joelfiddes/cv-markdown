@@ -41,5 +41,6 @@ vendor/
 *.bak
 
 # Generated PDFs
+JoelFiddesCV.pdf
 latest.pdf
 JoelFiddesCV_*.pdf
