@@ -326,6 +326,4 @@ Data and monitoring tools for improved water resource management in Afghanistan.
 
 ---
 
-### Footer
-
 Last updated: {{DATE_PLACEHOLDER}}
