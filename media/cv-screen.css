@@ -80,6 +80,7 @@ code {
 p code {
 	position: absolute;
 	left: -10%;
+	margin-right: 0.5em;
 }
 
 

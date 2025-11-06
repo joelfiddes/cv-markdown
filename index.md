@@ -2,16 +2,7 @@
 Mountain Research | Consultant
 
 <div id="webaddress">
-
-<i class="fa fa-envelope"></i> <a href="joelfiddes@gmail.com">joel.fiddes@slf.ch</a>
-|
-<i class="fa fa-github"></i> <a href="https://joelfiddes.github.io">Website</a>
-|
-<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/joelfiddes/">Linkedin</a>
-|
-<i class="fa fa-google"></i> <a href="https://scholar.google.ch/citations?user=VGf9mvoAAAAJ&hl=en">Google Scholar</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/joelfiddes">Github</a><br />
+<i class="fa fa-envelope"></i> <a href="joelfiddes@gmail.com">joel.fiddes@slf.ch</a> | <i class="fa fa-github"></i> <a href="https://joelfiddes.github.io">Website</a> | <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/joelfiddes/">Linkedin</a> | <i class="fa fa-google"></i> <a href="https://scholar.google.ch/citations?user=VGf9mvoAAAAJ&hl=en">Google Scholar</a> | <i class="fa fa-github"></i> <a href="http://github.com/joelfiddes">Github</a>
 </div>
 
 ## Currently
@@ -41,7 +32,8 @@ __mountainfutures GmbH (since 2025)__ _co-founder_. A WSL/SLF spin-off aiming to
 `2018-25`
 __WSL Institute for Snow and Avalanche Research SLF__ _Research scientist_. Investigating snow processes in High Asia using models, EO data and field measurements under SNF project "From Cloud to Ground: Snow Accumulation in Extreme Environments". SDC funded projects in Central Asia <a href="https://www.eda.admin.ch/deza/de/home/themen/wasser.html/content/dezaprojects/SDC/en/2019/7F10279/phase1?oldPagePath=/content/deza/de/home/themen/wasser.html">"Cryosphere Observations and Modelling for Improved Adaptation in Central Asia"</a> (CROMO-ADAPT  2021-2025) and <a href="https://www.caritas.ch/en/what-we-do/worldwide/climate/tajikistan-weather-data-helps-farmers-to-improve-their-productivity.html">"Water, Weather and Climate Services"</a> with CARITAS CH (WWCS 2021-2025). Both projects focus on mountain related water and hazards nexus and collaborate with an extensive network of regional partners. I am a Member of the Swiss Polar Institute flagship project <a href="https://pamir-project.ch/">"PAMIR"</a> and contribute to data sharing projects of the WMO such as <a href="https://public.wmo.int/en/our-mandate/focus-areas/cryosphere/GCW">"Global Cryosphere Watch"</a>
 
-`2024-25`__UNESCO/Global Environment Facility__ _Consultant_ Development of high-resolution climate change impact scenarios on Central Asian snow cover.
+`2024-25`
+__UNESCO/Global Environment Facility__ _Consultant_ Development of high-resolution climate change impact scenarios on Central Asian snow cover.
 
 `2022`
 __World Meteorological Organization__ _Consultant_ Analysis and inventory of existing mountain observation and data sources related to snow, glaciers, permafrost, discharge, and ancillary data in Central Asia (Afghanistan, Tajikistan, Kyrgyzstan, Uzbekistan and Kazakhstan)
