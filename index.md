@@ -2,7 +2,16 @@
 Mountain Research | Consultant
 
 <div id="webaddress">
-<i class="fa fa-envelope"></i> <a href="joelfiddes@gmail.com">joel.fiddes@slf.ch</a> | <i class="fa fa-github"></i> <a href="https://joelfiddes.github.io">Website</a> | <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/joelfiddes/">Linkedin</a> | <i class="fa fa-google"></i> <a href="https://scholar.google.ch/citations?user=VGf9mvoAAAAJ&hl=en">Google Scholar</a> | <i class="fa fa-github"></i> <a href="http://github.com/joelfiddes">Github</a>
+
+<i class="fa fa-envelope"></i> <a href="joelfiddes@gmail.com">joel.fiddes@slf.ch</a>
+|
+<i class="fa fa-github"></i> <a href="https://joelfiddes.github.io">Website</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/joelfiddes/">Linkedin</a>
+|
+<i class="fa fa-google"></i> <a href="https://scholar.google.ch/citations?user=VGf9mvoAAAAJ&hl=en">Google Scholar</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/joelfiddes">Github</a><br />
 </div>
 
 ## Currently
