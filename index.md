@@ -323,16 +323,8 @@ Data and monitoring tools for improved water resource management in Afghanistan.
 * Tajikistan
 * Uzbekistan
 
+---
 
+### Footer
 
-
-
-## References
-
-Available on request.
-
-<a href="https://drive.google.com/open?id=0B5IDVy7OycK5WW1JM2tCWndPcUU">Short CV</a>
-
-<!-- ### Footer
-
-Last updated: April 2025 -->
+Last updated: {{DATE_PLACEHOLDER}}

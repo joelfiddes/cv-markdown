@@ -44,3 +44,6 @@ vendor/
 JoelFiddesCV.pdf
 latest.pdf
 JoelFiddesCV_*.pdf
+
+# Temporary files
+temp_cv.md
